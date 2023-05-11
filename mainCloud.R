@@ -1,8 +1,23 @@
+# This script uses various wordcloud packages to create clouds of words 
+# whose midpoint co-occurs with annotations related to conversational 
+# humor, in terms of various discourse # related aspects of humor, 
+# such as the form, process, cues (indicators) and reactions. 
+# smiles are also of interest
+
+
+install.packages("tm")
+install.packages("SnowballC")
+install.packages("wordcloud")
+install.packages("RColorBrewer")
+install.packages("wordcloud2")
+
+
 library("tm")
 library("SnowballC")
 library("wordcloud")
 library("RColorBrewer")
 library("wordcloud2")
+
 
 # Set working directory to source file location
 
@@ -18,6 +33,32 @@ print(dataContexts)
 # print data for female speaker MD
 
 print(dataContextsMD)
+
+
+# AD non humor contexts (bonafide communication)
+
+text2 = data.frame(dataContexts$word[dataContexts$reactions == ''])
+docs <- Corpus(VectorSource(text2))
+docs <- tm_map(docs, removePunctuation)
+dtm <- TermDocumentMatrix(docs)
+matrix <- as.matrix(dtm)
+words <- sort(rowSums(matrix),decreasing=TRUE)
+df <- data.frame(word = names(words),freq=words)
+set.seed(1234)
+wordcloud(words = df$word, freq = df$freq, min.freq = 1, max.words=200, random.order=FALSE, rot.per=0.35, colors=brewer.pal(8, "Dark2"))
+
+# AD humor, eliciting a positive reaction
+
+text2 = data.frame(dataContexts$word[dataContexts$reactions == 'positive'])
+docs <- Corpus(VectorSource(text2))
+docs <- tm_map(docs, removePunctuation)
+dtm <- TermDocumentMatrix(docs)
+matrix <- as.matrix(dtm)
+words <- sort(rowSums(matrix),decreasing=TRUE)
+df <- data.frame(word = names(words),freq=words)
+set.seed(1234)
+wordcloud(words = df$word, freq = df$freq, min.freq = 1, max.words=200, random.order=FALSE, rot.per=0.35, colors=brewer.pal(8, "Dark2"))
+
 
 # AD humor targeting self
 
@@ -44,30 +85,6 @@ set.seed(1234)
 wordcloud(words = df$word, freq = df$freq, min.freq = 1, max.words=200, random.order=FALSE, rot.per=0.35, colors=brewer.pal(8, "Dark2"))
 
 
-# AD non humor contexts
-
-text2 = data.frame(dataContexts$word[dataContexts$reactions == ''])
-docs <- Corpus(VectorSource(text2))
-docs <- tm_map(docs, removePunctuation)
-dtm <- TermDocumentMatrix(docs)
-matrix <- as.matrix(dtm)
-words <- sort(rowSums(matrix),decreasing=TRUE)
-df <- data.frame(word = names(words),freq=words)
-set.seed(1234)
-wordcloud(words = df$word, freq = df$freq, min.freq = 1, max.words=200, random.order=FALSE, rot.per=0.35, colors=brewer.pal(8, "Dark2"))
-
-# AD humor positive reaction
-
-text2 = data.frame(dataContexts$word[dataContexts$reactions == 'positive'])
-docs <- Corpus(VectorSource(text2))
-docs <- tm_map(docs, removePunctuation)
-dtm <- TermDocumentMatrix(docs)
-matrix <- as.matrix(dtm)
-words <- sort(rowSums(matrix),decreasing=TRUE)
-df <- data.frame(word = names(words),freq=words)
-set.seed(1234)
-wordcloud(words = df$word, freq = df$freq, min.freq = 1, max.words=200, random.order=FALSE, rot.per=0.35, colors=brewer.pal(8, "Dark2"))
-
 # AD no smile
 
 text2 = data.frame(dataContexts$word[dataContexts$smile == 'S0'])
@@ -79,6 +96,117 @@ words <- sort(rowSums(matrix),decreasing=TRUE)
 df <- data.frame(word = names(words),freq=words)
 set.seed(1234)
 wordcloud(words = df$word, freq = df$freq, min.freq = 1, max.words=200, random.order=FALSE, rot.per=0.35, colors=brewer.pal(8, "Dark2"))
+
+
+# AD Smile intensity S1
+
+text2 = data.frame(dataContexts$word[dataContexts$smile == 'S1'])
+docs <- Corpus(VectorSource(text2))
+docs <- tm_map(docs, removePunctuation)
+dtm <- TermDocumentMatrix(docs)
+matrix <- as.matrix(dtm)
+words <- sort(rowSums(matrix),decreasing=TRUE)
+df <- data.frame(word = names(words),freq=words)
+set.seed(1234)
+wordcloud(words = df$word, freq = df$freq, min.freq = 1, max.words=200, random.order=FALSE, rot.per=0.35, colors=brewer.pal(8, "Dark2"))
+
+# AD Smile intensity S2
+
+text2 = data.frame(dataContexts$word[dataContexts$smile == 'S2'])
+docs <- Corpus(VectorSource(text2))
+docs <- tm_map(docs, removePunctuation)
+dtm <- TermDocumentMatrix(docs)
+matrix <- as.matrix(dtm)
+words <- sort(rowSums(matrix),decreasing=TRUE)
+df <- data.frame(word = names(words),freq=words)
+set.seed(1234)
+wordcloud(words = df$word, freq = df$freq, min.freq = 1, max.words=200, random.order=FALSE, rot.per=0.35, colors=brewer.pal(8, "Dark2"))
+
+# AD Smile intensity S3
+
+text2 = data.frame(dataContexts$word[dataContexts$smile == 'S3'])
+docs <- Corpus(VectorSource(text2))
+docs <- tm_map(docs, removePunctuation)
+dtm <- TermDocumentMatrix(docs)
+matrix <- as.matrix(dtm)
+words <- sort(rowSums(matrix),decreasing=TRUE)
+df <- data.frame(word = names(words),freq=words)
+set.seed(1234)
+wordcloud(words = df$word, freq = df$freq, min.freq = 1, max.words=200, random.order=FALSE, rot.per=0.35, colors=brewer.pal(8, "Dark2"))
+
+# AD Smile intensity S4
+
+text2 = data.frame(dataContexts$word[dataContexts$smile == 'S4'])
+docs <- Corpus(VectorSource(text2))
+docs <- tm_map(docs, removePunctuation)
+dtm <- TermDocumentMatrix(docs)
+matrix <- as.matrix(dtm)
+words <- sort(rowSums(matrix),decreasing=TRUE)
+df <- data.frame(word = names(words),freq=words)
+set.seed(1234)
+wordcloud(words = df$word, freq = df$freq, min.freq = 1, max.words=200, random.order=FALSE, rot.per=0.35, colors=brewer.pal(8, "Dark2"))
+
+# MD no smile
+
+text2 = data.frame(dataContextsMD$word[dataContextsMD$smile == 'S0'])
+docs <- Corpus(VectorSource(text2))
+docs <- tm_map(docs, removePunctuation)
+dtm <- TermDocumentMatrix(docs)
+matrix <- as.matrix(dtm)
+words <- sort(rowSums(matrix),decreasing=TRUE)
+df <- data.frame(word = names(words),freq=words)
+set.seed(1234)
+wordcloud(words = df$word, freq = df$freq, min.freq = 1, max.words=200, random.order=FALSE, rot.per=0.35, colors=brewer.pal(8, "Dark2"))
+
+
+
+# MD smiling indicator during humor
+
+text2 = data.frame(dataContextsMD$word[dataContextsMD$smile == 'S1'])
+docs <- Corpus(VectorSource(text2))
+docs <- tm_map(docs, removePunctuation)
+dtm <- TermDocumentMatrix(docs)
+matrix <- as.matrix(dtm)
+words <- sort(rowSums(matrix),decreasing=TRUE)
+df <- data.frame(word = names(words),freq=words)
+set.seed(1234)
+wordcloud(words = df$word, freq = df$freq, min.freq = 1, max.words=200, random.order=FALSE, rot.per=0.35, colors=brewer.pal(8, "Dark2"))
+
+# MD smile level 2
+
+text2 = data.frame(dataContextsMD$word[dataContextsMD$smile == 'S2'])
+docs <- Corpus(VectorSource(text2))
+docs <- tm_map(docs, removePunctuation)
+dtm <- TermDocumentMatrix(docs)
+matrix <- as.matrix(dtm)
+words <- sort(rowSums(matrix),decreasing=TRUE)
+df <- data.frame(word = names(words),freq=words)
+set.seed(1234)
+wordcloud(words = df$word, freq = df$freq, min.freq = 1, max.words=200, random.order=FALSE, rot.per=0.35, colors=brewer.pal(8, "Dark2"))
+
+# MD smile level 3
+
+text2 = data.frame(dataContextsMD$word[dataContextsMD$smile == 'S3'])
+docs <- Corpus(VectorSource(text2))
+docs <- tm_map(docs, removePunctuation)
+dtm <- TermDocumentMatrix(docs)
+matrix <- as.matrix(dtm)
+words <- sort(rowSums(matrix),decreasing=TRUE)
+df <- data.frame(word = names(words),freq=words)
+set.seed(1234)
+wordcloud(words = df$word, freq = df$freq, min.freq = 1, max.words=200, random.order=FALSE, rot.per=0.35, colors=brewer.pal(8, "Dark2"))
+
+# MD smile level 4
+text2 = data.frame(dataContextsMD$word[dataContextsMD$smile == 'S4'])
+docs <- Corpus(VectorSource(text2))
+docs <- tm_map(docs, removePunctuation)
+dtm <- TermDocumentMatrix(docs)
+matrix <- as.matrix(dtm)
+words <- sort(rowSums(matrix),decreasing=TRUE)
+df <- data.frame(word = names(words),freq=words)
+set.seed(1234)
+wordcloud(words = df$word, freq = df$freq, min.freq = 1, max.words=200, random.order=FALSE, rot.per=0.35, colors=brewer.pal(8, "Dark2"))
+
 
 # AD Prosody during humor
 
@@ -193,3 +321,65 @@ words <- sort(rowSums(matrix),decreasing=TRUE)
 df <- data.frame(word = names(words),freq=words)
 set.seed(1234)
 wordcloud(words = df$word, freq = df$freq, min.freq = 1, max.words=200, random.order=FALSE, rot.per=0.35, colors=brewer.pal(8, "Dark2"))
+
+# MD smiling S0 (no smiling) during humor
+
+text2 = data.frame(dataContextsMD$word[dataContextsMD$smile == 'S0'])
+docs <- Corpus(VectorSource(text2))
+docs <- tm_map(docs, removePunctuation)
+dtm <- TermDocumentMatrix(docs)
+matrix <- as.matrix(dtm)
+words <- sort(rowSums(matrix),decreasing=TRUE)
+df <- data.frame(word = names(words),freq=words)
+set.seed(1234)
+wordcloud(words = df$word, freq = df$freq, min.freq = 1, max.words=200, random.order=FALSE, rot.per=0.35, colors=brewer.pal(8, "Dark2"))
+
+# MD Smile intensity S1
+
+text2 = data.frame(dataContextsMD$word[dataContextsMD$smile == 'S1'])
+docs <- Corpus(VectorSource(text2))
+docs <- tm_map(docs, removePunctuation)
+dtm <- TermDocumentMatrix(docs)
+matrix <- as.matrix(dtm)
+words <- sort(rowSums(matrix),decreasing=TRUE)
+df <- data.frame(word = names(words),freq=words)
+set.seed(1234)
+wordcloud(words = df$word, freq = df$freq, min.freq = 1, max.words=200, random.order=FALSE, rot.per=0.35, colors=brewer.pal(8, "Dark2"))
+
+# AD Smile intensity S2
+
+text2 = data.frame(dataContextsMD$word[dataContextsMD$smile == 'S2'])
+docs <- Corpus(VectorSource(text2))
+docs <- tm_map(docs, removePunctuation)
+dtm <- TermDocumentMatrix(docs)
+matrix <- as.matrix(dtm)
+words <- sort(rowSums(matrix),decreasing=TRUE)
+df <- data.frame(word = names(words),freq=words)
+set.seed(1234)
+wordcloud(words = df$word, freq = df$freq, min.freq = 1, max.words=200, random.order=FALSE, rot.per=0.35, colors=brewer.pal(8, "Dark2"))
+
+# MD Smile intensity S3
+
+text2 = data.frame(dataContextsMD$word[dataContextsMD$smile == 'S3'])
+docs <- Corpus(VectorSource(text2))
+docs <- tm_map(docs, removePunctuation)
+dtm <- TermDocumentMatrix(docs)
+matrix <- as.matrix(dtm)
+words <- sort(rowSums(matrix),decreasing=TRUE)
+df <- data.frame(word = names(words),freq=words)
+set.seed(1234)
+wordcloud(words = df$word, freq = df$freq, min.freq = 1, max.words=200, random.order=FALSE, rot.per=0.35, colors=brewer.pal(8, "Dark2"))
+
+# MD Smile intensity S4
+
+text2 = data.frame(dataContextsMD$word[dataContextsMD$smile == 'S4'])
+docs <- Corpus(VectorSource(text2))
+docs <- tm_map(docs, removePunctuation)
+dtm <- TermDocumentMatrix(docs)
+matrix <- as.matrix(dtm)
+words <- sort(rowSums(matrix),decreasing=TRUE)
+df <- data.frame(word = names(words),freq=words)
+set.seed(1234)
+wordcloud(words = df$word, freq = df$freq, min.freq = 1, max.words=200, random.order=FALSE, rot.per=0.35, colors=brewer.pal(8, "Dark2"))
+
+
