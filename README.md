@@ -4,6 +4,8 @@
 
 The data is from a conversation between a male and female speaker in the "Cheese !" corpus (Priego-Valverde, 2020). 
 
+Word clouds of words occuring during humorous discourse and multimodal events such as humor reactions, non-humor, and various levels of smiling intensity. 
+
 Priego-Valverde, B., Bigi, B., & Amoyal, M. (2020, May). “Cheese!”: a Corpus of Face-to-face French Interactions. A Case Study for Analyzing Smiling and Conversational Humor. In Proceedings of the Twelfth Language Resources and Evaluation Conference (pp. 467-475).
 
 [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/hebrewmatthew/digitalHumanizer/HEAD)
