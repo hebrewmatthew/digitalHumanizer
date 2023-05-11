@@ -1,0 +1,3754 @@
+word	target	forms	processes	indicators	reactions	smile
+du					positive	S0
+coup					positive	S0
+je					positive	S0
+sai-					positive	S0
+je					positive	S0
+connais					positive	S0
+pas					positive	S0
+euh					positive	S0
+le					positive	S0
+le					positive	S0
+contenu					positive	S0
+du					positive	S0
+texte					positive	S0
+que					positive	S0
+tu					positive	S0
+lis					positive	S0
+ah					positive	S0
+d					positive	S0
+accord					positive	S0
+putain					positive	S1
+alors						positive	S1
+attends					positive	S1
+ça					positive	S4
+t'arrangerait					positive	S4
+pas					positive	S4
+de					positive	S4
+lire					positive	S4
+mon					positive	S4
+texte					positive	S4
+parce					positive	S4
+parce					positive	S4
+que					positive	S4
+du					positive	S4
+coup					positive	S4
+je					positive	S4
+vois					positive	S4
+rien					positive	S4
+je					positive	S0
+lis					positive	S0
+à					positive	S0
+voix					positive	S0
+haute					positive	S0
+ou					positive	S0
+euh					positive	S0
+à					positive	S0
+voix					positive	S0
+haute					positive	S0
+ah					positive	S0
+ouais					positive	S0
+d'accord					positive	S0
+ok					positive	S0
+c'est					positive	S0
+à					positive	S0
+voix					positive	S0
+t'					positive	S0
+t'est					positive	S0
+tu					positive	S0
+est					positive	S0
+sûr					positive	S0
+t'es					positive	S0
+sûr					positive	S0
+ok					positive	S0
+moi					positive	S0
+j'ai					positive	S0
+l'impression					positive	S0
+qu'					positive	S0
+il					positive	S0
+e					positive	S0
+un					positive	S0
+peu					positive	S0
+plus					positive	S0
+long					positive	S0
+le					positive	S0
+mien					positive	S0
+t					positive	S0
+as					positive	S0
+le					positive	S0
+droit					positive	S0
+de					positive	S0
+le					positive	S0
+relire					positive	S0
+relis					positive	S0
+le					positive	S0
+un					positive	S0
+deuxième					positive	S0
+fois					positive	S0
+peût-être					positive	S0
+non					positive	S0
+Ok					positive	S0
+ça					positive	S0
+va					positive	S0
+donc					positive	S0
+on					positive	S0
+a					positive	S0
+une					positive	S0
+voiture					positive	S0
+un					positive	S0
+accident					positive	S0
+un					positive	S0
+journaliste					positive	S0
+alors					positive	S0
+je					positive	S0
+te					positive	S0
+lis					positive	S0
+mon					positive	S0
+histoire					positive	S0
+alors	A	blague	blague		positive	S0
+le	A	blague	blague		positive	S0
+titre	A	blague	blague		positive	S0
+frog	A	blague	blague		positive	S0
+joke	A	blague	blague		positive	S0
+un	A	blague	blague		positive	S0
+jour	A	blague	blague		positive	S0
+un	A	blague	blague		positive	S0
+ingénieur	A	blague	blague		positive	S0
+traversait	A	blague	blague		positive	S0
+la	A	blague	blague		positive	S0
+rue	A	blague	blague		positive	S0
+quand	A	blague	blague		positive	S0
+une	A	blague	blague		positive	S0
+grenouille	A	blague	blague		positive	S0
+l	A	blague	blague		positive	S0
+interpella	A	blague	blague		positive	S0
+et	A	blague	blague		positive	S0
+dit	A	blague	blague		positive	S0
+si	A	blague	blague		positive	S0
+tu	A	blague	blague		positive	S0
+m'embrasses	A	blague	blague		positive	S0
+je	A	blague	blague		positive	S0
+me	A	blague	blague		positive	S0
+transforme	A	blague	blague		positive	S0
+en	A	blague	blague		positive	S0
+belle	A	blague	blague		positive	S0
+princesse	A	blague	blague		positive	S0
+il	A	blague	blague		positive	S0
+s'accroupit	A	blague	blague		positive	S0
+ramassa	A	blague	blague		positive	S0
+la	A	blague	blague		positive	S0
+grenouille	A	blague	blague		positive	S0
+et	A	blague	blague		positive	S0
+la	A	blague	blague		positive	S0
+mis	A	blague	blague		positive	S0
+dans	A	blague	blague		positive	S0
+sa	A	blague	blague		positive	S0
+poche	A	blague	blague		positive	S0
+la	A	blague	blague		positive	S0
+grenouille	A	blague	blague		positive	S0
+reprit	A	blague	blague		positive	S0
+la	A	blague	blague		positive	S0
+parole	A	blague	blague		positive	S0
+et	A	blague	blague		positive	S0
+dit	A	blague	blague		positive	S0
+si	A	blague	blague		positive	S0
+tu	A	blague	blague		positive	S0
+m'embrasses	A	blague	blague		positive	S0
+et	A	blague	blague		positive	S0
+me	A	blague	blague		positive	S0
+transformes	A	blague	blague		positive	S0
+en	A	blague	blague		positive	S0
+belle	A	blague	blague		positive	S0
+princesse	A	blague	blague		positive	S0
+je	A	blague	blague		positive	S0
+resterai	A	blague	blague		positive	S0
+avec	A	blague	blague		positive	S0
+toi	A	blague	blague		positive	S0
+une	A	blague	blague		positive	S0
+semaine	A	blague	blague		positive	S0
+l	A	blague	blague		positive	S0
+ingénieur	A	blague	blague		positive	S0
+sortit	A	blague	blague		positive	S0
+la	A	blague	blague		positive	S0
+grenouille	A	blague	blague		positive	S0
+de	A	blague	blague		positive	S0
+sa	A	blague	blague		positive	S0
+poche	A	blague	blague		positive	S0
+lui	A	blague	blague		positive	S0
+sourit	A	blague	blague		positive	S0
+et	A	blague	blague		positive	S0
+la	A	blague	blague		positive	S0
+remit	A	blague	blague		positive	S0
+dans	A	blague	blague		positive	S0
+sa	A	blague	blague		positive	S0
+poche	A	blague	blague		positive	S0
+puis	A	blague	blague		positive	S0
+la	A	blague	blague		positive	S0
+grenouille	A	blague	blague		positive	S0
+se	A	blague	blague		positive	S0
+mit	A	blague	blague		positive	S0
+à	A	blague	blague		positive	S0
+crier	A	blague	blague		positive	S0
+si	A	blague	blague		positive	S0
+tu	A	blague	blague		positive	S0
+m'embrasses	A	blague	blague		positive	S0
+et	A	blague	blague		positive	S0
+me	A	blague	blague		positive	S0
+transformes	A	blague	blague		positive	S0
+en	A	blague	blague		positive	S0
+princesse	A	blague	blague		positive	S0
+je	A	blague	blague		positive	S0
+resterai	A	blague	blague		positive	S0
+avec	A	blague	blague		positive	S0
+toi	A	blague	blague		positive	S0
+et	A	blague	blague		positive	S0
+je	A	blague	blague		positive	S0
+ferai	A	blague	blague		positive	S0
+tout	A	blague	blague		positive	S0
+ce	A	blague	blague		positive	S0
+que	A	blague	blague		positive	S0
+tu	A	blague	blague		positive	S0
+veux	A	blague	blague		positive	S0
+micro	A	blague	blague		positive	S0
+alors	A	blague	blague		positive	S0
+c'est	A	blague	blague		positive	S0
+pas	A	blague	blague		positive	S0
+fini	A	blague	blague		positive	S0
+l	A	blague	blague		positive	S0
+ingénieur	A	blague	blague		positive	S0
+sorti	A	blague	blague		positive	S0
+encore	A	blague	blague		positive	S0
+la	A	blague	blague		positive	S0
+grenouille	A	blague	blague		positive	S0
+de	A	blague	blague		positive	S0
+sa	A	blague	blague		positive	S0
+poche	A	blague	blague		positive	S0
+lui	A	blague	blague		positive	S0
+sourit	A	blague	blague		positive	S0
+et	A	blague	blague		positive	S0
+la	A	blague	blague		positive	S0
+remit	A	blague	blague		positive	S0
+dans	A	blague	blague		positive	S0
+sa	A	blague	blague		positive	S0
+poche	A	blague	blague		positive	S0
+enfin	A	blague	blague		positive	S0
+la	A	blague	blague		positive	S0
+grenouille	A	blague	blague		positive	S0
+demande	A	blague	blague		positive	S0
+qu'est-ce	A	blague	blague		positive	S0
+qu'il	A	blague	blague		positive	S0
+y	A	blague	blague		positive	S0
+a	A	blague	blague		positive	S0
+je	A	blague	blague		positive	S0
+t'ai	A	blague	blague		positive	S0
+dit	A	blague	blague		positive	S0
+que	A	blague	blague		positive	S0
+j'étais	A	blague	blague		positive	S0
+une	A	blague	blague		positive	S0
+belle	A	blague	blague		positive	S0
+princesse	A	blague	blague		positive	S0
+que	A	blague	blague		positive	S0
+je	A	blague	blague		positive	S0
+resterai	A	blague	blague		positive	S0
+avec	A	blague	blague		positive	S0
+toi	A	blague	blague		positive	S0
+une	A	blague	blague		positive	S0
+semaine	A	blague	blague		positive	S0
+et	A	blague	blague		positive	S0
+que	A	blague	blague		positive	S0
+je	A	blague	blague		positive	S0
+ferai	A	blague	blague		positive	S0
+tout	A	blague	blague		positive	S0
+ce	A	blague	blague		positive	S0
+que	A	blague	blague		positive	S0
+tu	A	blague	blague		positive	S0
+veux	A	blague	blague		positive	S0
+pourquoi	A	blague	blague		positive	S0
+ne	A	blague	blague		positive	S0
+m'embrasses-tu	A	blague	blague		positive	S0
+pas	A	blague	blague		positive	S0
+l	A	blague	blague		positive	S0
+ingénieur	A	blague	blague		positive	S0
+répondu	A	blague	blague		positive	S0
+écoute	A	blague	blague		positive	S0
+je	A	blague	blague		positive	S0
+suis	A	blague	blague		positive	S0
+un	A	blague	blague		positive	S0
+ingénieur	A	blague	blague		positive	S0
+je	A	blague	blague		positive	S0
+n'ai	A	blague	blague		positive	S0
+pas	A	blague	blague		positive	S0
+le	A	blague	blague		positive	S0
+temps	A	blague	blague		positive	S0
+pour	A	blague	blague		positive	S0
+une	A	blague	blague		positive	S0
+petite	A	blague	blague		positive	S0
+copine	A	blague	blague		positive	S0
+mais	A	blague	blague		positive	S0
+une	A	blague	blague		positive	S0
+grenouille	A	blague	blague		positive	S0
+qui	A	blague	blague		positive	S0
+parle	A	blague	blague		positive	S0
+ça	A	blague	blague		positive	S2
+c'est	A	blague	blague		positive	S2
+cool	A	blague	blague		positive	S2
+euh						S4
+t						S0
+u						S0
+veux						S0
+que						S0
+je						S0
+relise						S0
+ouais						S0
+c'est						S0
+une						S0
+vanne						S0
+en						S0
+fait						S0
+ben						S0
+au						S0
+départ						S0
+c'est						S0
+frog						S0
+joke						S0
+le						S0
+titre						S0
+mais						S0
+po-						S0
+pour						S0
+une						S0
+vanne						S0
+ç-						S0
+pour						S0
+une						S0
+vanne						S0
+ça						S0
+c'est						S0
+un						S0
+peu						S0
+long						S0
+parce						S0
+que						S0
+donkey						S0
+c'est						S0
+le						S0
+singe						S0
+pour						S0
+une						S0
+vanne						S0
+je						S0
+trouve						S0
+que						S0
+c'est						S0
+un						S0
+peu						S0
+long						S0
+parce						S0
+que						S0
+je						S0
+vois						S0
+pas						S0
+trop						S0
+la						S0
+chute						S0
+en						S0
+fait						S0
+tu						S0
+vois						S0
+bon						S0
+la						S0
+chute						S0
+c'est						S0
+euh						S0
+ouais						S0
+pf						S0
+ouais						S0
+c'est						S0
+cool						S0
+mais						S0
+euh						S0
+il						S0
+faut						S0
+ouais						S0
+don-						S0
+don-						S0
+donkey						S0
+c'est						S0
+c'est						S0
+le						S0
+c'est						S0
+le						S0
+singe						S0
+ouais						S0
+ah						S0
+attends						S0
+attends						S0
+euh						S0
+donkey						S0
+kong						S0
+je						S0
+crois						S0
+il						S0
+y						S0
+avait						S0
+un						S0
+jeu						S0
+vidéo						S0
+ouais						S0
+monkey						S0
+monki						S0
+c'est						S0
+le						S0
+singe						S0
+ouais						S0
+et						S0
+donkey						S0
+ouais						S0
+voilà						S0
+voilà						S0
+ouais						S0
+tu						S0
+qu'on						S0
+commence						S0
+par						S0
+ton						S0
+histoire						S0
+qui	A	moquerie	évaluation négative	prosodie	positive	S0
+est	A	moquerie	évaluation négative	prosodie	positive	S0
+pas	A	moquerie	évaluation négative	prosodie	positive	S0
+drôle	A	moquerie	évaluation négative	prosodie	positive	S0
+en	A	moquerie	évaluation négative	prosodie	positive	S0
+fait	A	moquerie	évaluation négative	prosodie	positive	S0
+hein	A	moquerie	évaluation négative	prosodie	positive	S0
+ouais						S1
+ouais						S1
+parce						S1
+que						S1
+en						S1
+fait						S1
+euh						S0
+sur						S0
+le						S0
+malheur						S0
+des						S0
+gens						S0
+en						S0
+fait						S0
+euh						S0
+tu						S0
+vois						S0
+il						S0
+il						S0
+veut						S0
+faire						S0
+son						S0
+beurre						S0
+quoi						S0
+ça	L	autodérision	jeu sur les images	prosodie	positive	S0
+rime	L	autodérision	jeu sur les images	prosodie	positive	S0
+t	L	autodérision	jeu sur les images	prosodie	positive	S0
+u	L	autodérision	jeu sur les images	prosodie	positive	S0
+as	L	autodérision	jeu sur les images	prosodie	positive	S0
+remarqué	L	autodérision	jeu sur les images	prosodie	positive	S0
+je	L	autodérision	jeu sur les images	prosodie	positive	S0
+parle	L	autodérision	jeu sur les images	prosodie	positive	S0
+je	L	autodérision	jeu sur les images	prosodie	positive	S0
+parle	L	autodérision	jeu sur les images	prosodie	positive	S0
+en	L	autodérision	jeu sur les images	prosodie	positive	S0
+rime	L	autodérision	jeu sur les images	prosodie	positive	S0
+on	L/I	autodérision/moquerie	fictionnalisation	rire	positive	S0
+va	L/I	autodérision/moquerie	fictionnalisation	rire	positive	S0
+essayer	L/I	autodérision/moquerie	fictionnalisation	rire	positive	S0
+tout	L/I	autodérision/moquerie	fictionnalisation	rire	positive	S0
+le	L/I	autodérision/moquerie	fictionnalisation	rire	positive	S0
+long	L/I	autodérision/moquerie	fictionnalisation	rire	positive	S0
+de	L/I	autodérision/moquerie	fictionnalisation	rire	positive	S0
+de	L/I	autodérision/moquerie	fictionnalisation	rire	positive	S4
+parler	L/I	autodérision/moquerie	fictionnalisation	rire	positive	S4
+en	L/I	autodérision/moquerie	fictionnalisation	rire	positive	S4
+rime	L/I	autodérision/moquerie	fictionnalisation	rire	positive	S4
+ouais	L/I	autodérision/moquerie	fictionnalisation	rire	positive	S4
+ 	L/I	autodérision/moquerie	fictionnalisation	rire	positive	S4
+ouais	L/I	autodérision/moquerie	fictionnalisation	rire	positive	S4
+ouais 	L	autodérision	évaluation négative	voix souriante	positive	S4
+malheur	L	autodérision	évaluation négative	voix souriante	positive	S4
+beurre	L	autodérision	évaluation négative	voix souriante	positive	S4
+elle	L	autodérision	évaluation négative	voix souriante	positive	S4
+est	L	autodérision	évaluation négative	voix souriante	positive	S4
+facile	L	autodérision	évaluation négative	voix souriante	positive	S4
+hein	L	autodérision	évaluation négative	voix souriante	positive	S4
+hè						S3
+hè						S3
+ah						S3
+ouais						S1
+ta	L	autodérision	fictionnalisation	prosodienegative	S0
+soeur	L	autodérision	fictionnalisation	prosodienegative	S0
+va	L	autodérision	fictionnalisation	prosodienegative	S0
+bien	L	autodérision	fictionnalisation	prosodienegative	S0
+ouais						S0
+et						S1
+c'est						S1
+vrai						S1
+t						S1
+u						S1
+as						S1
+une						S1
+soeur						S1
+mh						S4
+mh						S4
+ouais						S1
+ouais						S1
+les	L	autodérision	fictionnalisation	prosodie	positive	S1
+enfants	L	autodérision	fictionnalisation	prosodie	positive	S1
+ouais	L	autodérision	fictionnalisation	prosodie	positive	S1
+ça	L	autodérision	fictionnalisation	prosodie	positive	S1
+va	L	autodérision	fictionnalisation	prosodie	positive	S1
+en						S1
+fin	L	autodérision	jouer le jeu/fictionnalisation	prosodie	positive	S1
+ce	L	autodérision	jouer le jeu/fictionnalisation	prosodie	positive	S1
+que	L	autodérision	jouer le jeu/fictionnalisation	prosodie	positive	S1
+je	L	autodérision	jouer le jeu/fictionnalisation	prosodie	positive	S1
+ce	L	autodérision	jouer le jeu/fictionnalisation	prosodie	positive	S1
+que	L	autodérision	jouer le jeu/fictionnalisation	prosodie	positive	S1
+je	L	autodérision	jouer le jeu/fictionnalisation	prosodie	positive	S1
+s-	L	autodérision	jouer le jeu/fictionnalisation	prosodie	positive	S1
+je	L	autodérision	jouer le jeu/fictionnalisation	prosodie	positive	S1
+connais	L	autodérision	jouer le jeu/fictionnalisation	prosodie	positive	S1
+pas	L	autodérision	jouer le jeu/fictionnalisation	prosodie	positive	X
+hein	L	autodérision	jouer le jeu/fictionnalisation	prosodie	positive	X
+ouais	L	autodérision	jouer le jeu/fictionnalisation	prosodie	positive	X
+oui						S1
+d						S1
+ailleurs						S1
+la						S1
+dernière						S1
+fois						S1
+sur						S1
+Facebook						S1
+euh						S1
+je						S1
+regardais						S1
+un						S1
+peu						S1
+tu						S1
+vois						S0
+mais						S0
+en						S0
+fin						S0
+bon						S0
+ben						S0
+mais						S0
+mon						S0
+ex						S0
+d						S0
+il						S0
+y						S0
+a						S0
+vingt-cinq						S0
+ans						S0
+et						S0
+euh						S0
+et						S0
+je						S0
+voyais						S0
+qu'à						S0
+chaque						S0
+fois						S0
+il						S0
+y						S0
+avait						S0
+une						S0
+photo						S0
+euh						S0
+avec						S0
+une						S0
+euh						S0
+petite						S0
+de						S0
+d						S0
+à						S0
+peu						S0
+près						S0
+vingt						S0
+vingt-deux						S0
+ans						S0
+et						S0
+je						S0
+me						S1
+demandais						S1
+si						S1
+c'était						S1
+pas						S1
+ma						S1
+fille						S1
+ma						S4
+fille						S4
+et						S4
+et						S4
+pendant						S4
+et						S4
+pendant						S4
+pendant						S4
+une						S4
+semaine						S3
+j'ai						S3
+été						S3
+un						S3
+peu						S3
+un						S3
+perplexe						S3
+tu						S3
+vois						S3
+je						S3
+me						S3
+disais						S3
+merde						S3
+oui						S0
+parce						S0
+que						S0
+quelque						S0
+part						S0
+tu						S0
+vois						S0
+je						S0
+me						S0
+disais						S0
+merde						S0
+j'aurais						S0
+bien						S0
+aimé						S0
+avoir						S0
+euh						S0
+une						S0
+fille						S0
+comme						S0
+elle						S0
+si						S0
+si						S0
+si						S0
+si						S0
+si						S0
+si						S0
+oui						S0
+vingt-cinq						S0
+mais						S0
+tu						S0
+a-						S0
+c'est						S0
+mais						S0
+c'est						S0
+difficile						S0
+d-						S0
+de						S0
+donner						S0
+un						S0
+âge						S0
+entre						S0
+vingt-deux						S0
+et						S0
+vingt-cinq						S0
+ans						S0
+tu						S0
+peux						S0
+pas						S0
+savoir						S0
+regarde						S0
+ma						S0
+copine						S0
+elle						S0
+a						S0
+dix-neuf						S0
+ans						S0
+euh						S0
+tout						S0
+le						S0
+monde						S0
+lui						S0
+dit						S0
+qu'elle						S0
+a						S0
+de						S0
+vingt-cinq						S0
+ans						S0
+ah						S0
+ben						S0
+ah						S0
+moi						S0
+quand						S0
+je						S0
+l						S0
+ai						S0
+quittée						S0
+elle						S0
+était						S0
+pas						S0
+enceinte						S0
+hein						S0
+mais						S0
+bon						S0
+euh						S0
+oui						S1
+non						S0
+m						S0
+ais						S0
+à						S0
+non						S0
+c'était						S0
+pas						S0
+un						S0
+bébé						S0
+c'était						S0
+une						S0
+jeune						S0
+fille						S0
+de						S0
+vingt-deux						S0
+vingt-cinq						S0
+ans						S0
+voilà						S0
+donc						S0
+c'est						S0
+pour						S0
+ça						S0
+j'ai						S0
+flippé						S0
+tu						S0
+vois						S0
+zéro						S0
+j'ai						S0
+flippé						S0
+et						S0
+donc						S0
+dans						S0
+dans						S0
+le						S0
+doute						S0
+j'ai						S0
+envoyé						S0
+un						S0
+message						S0
+je	L	autodérision	discours rapporté	prosodie	positive	S0
+te	L	autodérision	discours rapporté	prosodie	positive	S0
+jure	L	autodérision	discours rapporté	prosodie	positive	S0
+que	L	autodérision	discours rapporté	prosodie	positive	S0
+c'est	L	autodérision	discours rapporté	prosodie	positive	S0
+vrai	L	autodérision	discours rapporté	prosodie	positive	S0
+si	L	autodérision	discours rapporté	prosodie	positive	S0
+si	L	autodérision	discours rapporté	prosodie	positive	S0
+si	L	autodérision	discours rapporté	prosodie	positive	S0
+oui	L	autodérision	discours rapporté	prosodie	positive	S0
+euh	L	autodérision	discours rapporté	prosodie	positive	S0
+salut	L	autodérision	discours rapporté	prosodie	positive	S0
+euh	L	autodérision	discours rapporté	prosodie	positive	S0
+ça	L	autodérision	discours rapporté	prosodie	positive	S3
+va	L	autodérision	discours rapporté	prosodie	positive	S3
+tu	L	autodérision	discours rapporté	prosodie	positive	S3
+veux	L	autodérision	discours rapporté	prosodie	positive	S3
+genre	L	autodérision	discours rapporté	prosodie	positive	S3
+un						S3
+truc						S3
+comme						S3
+ça						S3
+tu						S3
+vois						S3
+pas						S3
+trop						S3
+prendre	L	autodérision	fictionnalisation	absence	positive	S3
+de	L	autodérision	fictionnalisation	absence	positive	S4
+risque	L	autodérision	fictionnalisation	absence	positive	S4
+je	L	autodérision	evaluation négative	rire	positive	S4
+vais	L	autodérision	evaluation négative	rire	positive	S4
+quand-même	L	autodérision	evaluation négative	rire	positive	S4
+passer	L	autodérision	evaluation négative	rire	positive	S4
+encore	L	autodérision	evaluation négative	rire	positive	S4
+pour	L	autodérision	evaluation négative	rire	positive	S4
+un	L	autodérision	evaluation négative	rire	positive	S4
+gros	L	autodérision	evaluation négative	rire	positive	S4
+enculé	L	autodérision	evaluation négative	rire	positive	S4
+tu	L	autodérision	evaluation négative	rire	positive	S4
+vois	L	autodérision	evaluation négative	rire	positive	S4
+pour	L	autodérision	fictionnalisation	prosodie	positive	S4
+éviter	L	autodérision	fictionnalisation	prosodie	positive	S4
+d	L	autodérision	fictionnalisation	prosodie	positive	S4
+avoir	L	autodérision	fictionnalisation	prosodie	positive	S4
+des	L	autodérision	fictionnalisation	prosodie	positive	S4
+oh	L	autodérision	fictionnalisation	prosodie	positive	S4
+pardon	L	autodérision	fictionnalisation	prosodie	positive	S2
+excuse-moi	L	autodérision	fictionnalisation	prosodie	positive	S2
+pour	L	autodérision	fictionnalisation	prosodie	positive	S2
+éviter	L	autodérision	fictionnalisation	prosodie	positive	S2
+encore	L	autodérision	fictionnalisation	prosodie	positive	S2
+d	L	autodérision	fictionnalisation	prosodie	positive	S2
+avoir	L	autodérision	fictionnalisation	prosodie	positive	S2
+euh	L	autodérision	fictionnalisation	prosodie	positive	S2
+d	L	autodérision	fictionnalisation	prosodie	positive	S2
+avoir	L	autodérision	fictionnalisation	prosodie	positive	S2
+des	L	autodérision	fictionnalisation	prosodie	positive	S2
+des	L	autodérision	fictionnalisation	prosodie	positive	S1
+retombées	L	autodérision	fictionnalisation	prosodie	positive	S1
+tu	L	autodérision	fictionnalisation	prosodie	positive	S1
+vois	L	autodérision	fictionnalisation	prosodie	positive	S1
+euh	L	autodérision	fictionnalisation	prosodie	positive	S1
+sur	L	autodérision	fictionnalisation/discours rapporté fictif	rire/prosodie	positive	S1
+euh	L	autodérision	fictionnalisation/discours rapporté fictif	rire/prosodie	positive	S1
+sur	L	autodérision	fictionnalisation/discours rapporté fictif	rire/prosodie	positive	S1
+la	L	autodérision	fictionnalisation/discours rapporté fictif	rire/prosodie	positive	S1
+paternité	L	autodérision	fictionnalisation/discours rapporté fictif	rire/prosodie	positive	S1
+genre	L	autodérision	fictionnalisation/discours rapporté fictif	rire/prosodie	positive	S3
+ah	L	autodérision	fictionnalisation/discours rapporté fictif	rire/prosodie	positive	S3
+ouais	L	autodérision	fictionnalisation/discours rapporté fictif	rire/prosodie	positive	S3
+ouais	L	autodérision	fictionnalisation/discours rapporté fictif	rire/prosodie	positive	S3
+il	L	autodérision	fictionnalisation/discours rapporté fictif	rire/prosodie	positive	S3
+est	L	autodérision	fictionnalisation/discours rapporté fictif	rire/prosodie	positive	S3
+gentil	L	autodérision	fictionnalisation/discours rapporté fictif	rire/prosodie	positive	S3
+et	L	autodérision	fictionnalisation/discours rapporté fictif	rire/prosodie	positive	S3
+tout	L	autodérision	fictionnalisation/discours rapporté fictif	rire/prosodie	positive	S3
+mais	L	autodérision	fictionnalisation/discours rapporté fictif	rire/prosodie	positive	S3
+vient	L	autodérision	fictionnalisation/discours rapporté fictif	rire/prosodie	positive	S3
+mon	L	autodérision	fictionnalisation/discours rapporté fictif	rire/prosodie	positive	S3
+gars	L	autodérision	fictionnalisation/discours rapporté fictif	rire/prosodie	positive	S3
+vient	L	autodérision	fictionnalisation/discours rapporté fictif	rire/prosodie	positive	S4
+vient	L	autodérision	fictionnalisation/discours rapporté fictif	rire/prosodie	positive	S4
+il	L	autodérision	fictionnalisation/discours rapporté fictif	rire/prosodie	positive	S4
+y	L	autodérision	fictionnalisation/discours rapporté fictif	rire/prosodie	positive	S4
+a	L	autodérision	fictionnalisation/discours rapporté fictif	rire/prosodie	positive	S4
+les	L	autodérision	fictionnalisation/discours rapporté fictif	rire/prosodie	positive	S4
+études	L	autodérision	fictionnalisation/discours rapporté fictif	rire/prosodie	positive	S4
+à	L	autodérision	fictionnalisation/discours rapporté fictif	rire/prosodie	positive	S4
+payer	L	autodérision	fictionnalisation/discours rapporté fictif	rire/prosodie	positive	S4
+il	L	autodérision	fictionnalisation/discours rapporté fictif	rire/prosodie	positive	S4
+y	L	autodérision	fictionnalisation/discours rapporté fictif	rire/prosodie	positive	S4
+a	L	autodérision	fictionnalisation/discours rapporté fictif	rire/prosodie	positive	S3
+ci	L	autodérision	fictionnalisation/discours rapporté fictif	rire/prosodie	positive	S3
+il	L	autodérision	fictionnalisation/discours rapporté fictif	rire/prosodie	positive	S3
+y	L	autodérision	fictionnalisation/discours rapporté fictif	rire/prosodie	positive	S3
+a	L	autodérision	fictionnalisation/discours rapporté fictif	rire/prosodie	positive	S3
+ça	L	autodérision	fictionnalisation/discours rapporté fictif	rire/prosodie	positive	S3
+mouais						S1
+non						S0
+elle						S0
+m'a						S0
+pas						S0
+répondu						S0
+tant	L	autodérision	conclusif	prosodie	positive	S4
+mieux	L	autodérision	conclusif	prosodie	positive	S4
+ouais						S1
+d						S1
+ailleurs						S1
+je						S1
+passe						S1
+pour						S1
+le						S1
+journaliste						S0
+dans						S0
+l						S0
+histoire						S0
+quoi						S0
+qui						S0
+est						S0
+pour						S0
+un						S0
+qu-						S0
+qui						S0
+enfume						S0
+en						S0
+fait						S0
+les						S0
+gens						S0
+et						S0
+qui						S0
+euh						S0
+qui						S0
+euh						S0
+qui						S0
+passe						S0
+pour						S0
+un						S0
+ouais						S0
+ouais						S0
+ouais						S0
+ouais						S0
+ouais						S0
+ouais						S0
+ouais						S0
+non						S0
+mais						S0
+tu						S0
+ver-						S0
+tu						S0
+v						S0
+err						S0
+as						S0
+Facebook						S0
+c'est						S0
+pas						S0
+mal						S0
+quoi						S0
+parce						S0
+que						S0
+ouais						S0
+ça						S0
+laisse						S0
+un						S0
+trace						S0
+en						S0
+fait						S0
+ouais						S0
+ouais						S0
+ouais						S0
+ouaisouais						S0
+c'est						S0
+clair						S0
+ouais						S0
+ouaisouais						S0
+ouais						S0
+exactement						S0
+ouais						S0
+ah						S0
+ouais						S0
+ouais						S0
+moi						S0
+aussi						S0
+ouais						S0
+ouais						S0
+moi						S0
+j'ai						S0
+enlevé						S0
+toutes						S0
+mes						S0
+photos						S0
+j'ai						S0
+enlevé						S0
+toutes						S0
+mes						S0
+photos						S0
+toutes						S0
+mes						S0
+traces						S0
+ouais						S0
+ouais						S0
+ouais						S0
+complètement						S0
+anonyme						S0
+zéro						S0
+non						S0
+bien						S0
+avant						S0
+je						S0
+l						S0
+ai						S0
+fait						S0
+je						S0
+l						S0
+ai						S0
+fait						S0
+à						S0
+partir						S0
+de						S0
+quatre						S0
+mois						S0
+quand						S0
+euh						S0
+quand						S0
+j'ai						S0
+su						S0
+que						S0
+euh						S0
+à						S0
+travers						S0
+euh						S0
+de						S0
+ton						S0
+profil						S0
+Facebook						S0
+on						S0
+pouvait						S0
+te						S0
+fliquer						S0
+à						S0
+l						S0
+entrée						S0
+des						S0
+centres						S0
+commerciaux						S0
+on						S0
+prend						S0
+toutes						S0
+tes						S0
+infos						S0
+de						S0
+Facebook						S0
+ta						S0
+photo						S0
+et						S0
+donc						S0
+quand						S0
+on						S0
+te						S0
+voit						S0
+arriver						S0
+dans						S0
+dans						S0
+dans						S0
+dans						S0
+dans						S0
+dans						S0
+dans						S0
+un						S0
+dans						S0
+un						S0
+couloir						S0
+à						S0
+avec						S0
+euh						S0
+des						S0
+des						S0
+des						S0
+appareils						S0
+euh						S0
+qui						S0
+vont						S0
+euh						S0
+servir						S0
+à						S0
+à						S0
+t'identifier						S0
+et						S0
+ben						S0
+on						S0
+arrive						S0
+on						S0
+arrive						S0
+à						S0
+à						S0
+influencer						S0
+à						S0
+t'influencer						S0
+à						S0
+travers						S0
+euh						S0
+zéro						S0
+euh						S0
+ton						S0
+évolution						S0
+dans						S0
+la						S0
+dans						S0
+le						S0
+centre						S0
+commercial						S0
+ouais						S0
+mais						S0
+c'est						S0
+demain						S0
+hein						S0
+c'est						S0
+demain						S0
+ça						S0
+va						S0
+arriver						S0
+ouais						S0
+ça						S0
+va						S0
+arriver						S0
+c'est						S0
+demain						S0
+ouais						S0
+il						S0
+prendre						S0
+euh						S0
+l						S0
+habitude						S0
+prendre						S0
+l						S0
+habitude						S0
+de						S0
+euh						S0
+exactement						S0
+exactement						S0
+ouais						S0
+ouais						S0
+ouais						S0
+tout						S0
+à						S0
+fait						S0
+ouais						S0
+voilà						S0
+ouais						S0
+ouais						S0
+ouais						S0
+ouais						S0
+zéro						S0
+mais						S0
+c'est						S0
+complètement						S0
+ouais						S0
+complètement						S0
+ouais						S0
+c'est						S0
+complètement						S0
+con						S0
+hein						S0
+ouais						S0
+ouais						S0
+è						S0
+après						S0
+après						S0
+tu						S0
+peux						S0
+créer						S0
+tu						S0
+peux						S0
+créer						S0
+un						S0
+petit						S0
+journal						S0
+tu						S0
+vois						S0
+si						S0
+vraiment						S0
+t						S0
+u						S0
+as						S0
+envie						S0
+d						S0
+être						S0
+euh						S0
+et						S0
+à						S0
+ce						S0
+moment						S0
+là						S0
+tu						S0
+joues						S0
+un						S0
+rôle						S0
+tu						S0
+joues						S0
+un						S0
+rôle						S0
+ouais						S0
+ouais						S0
+ouais						S0
+ouais						S0
+ouais						S0
+ouais						S0
+d						S0
+ail-						S0
+d						S0
+a-						S0
+d						S0
+ailleurs						S0
+euh						S0
+le						S0
+le						S0
+le						S0
+journaliste						S0
+a						S0
+joué						S0
+un						S0
+rôle						S0
+quoi						S0
+du						S0
+fils						S0
+oh						S0
+oui						S0
+je						S0
+suis						S0
+chu						S0
+je						S0
+suis						S0
+chu						S0
+de						S0
+le						S0
+je						S0
+suis						S0
+de						S0
+la						S0
+famille						S0
+ouais						S0
+mh						S0
+la						S0
+c'est						S0
+pa-						S0
+parfaitement						S0
+conscient						S0
+et						S0
+c'est						S0
+euh						S0
+c'est						S0
+euh						S0
+oh						S0
+ouais						S0
+dans						S0
+le						S0
+but						S0
+de						S0
+son						S0
+article						S0
+ouais						S0
+ouais						S0
+ouais						S0
+ouais						S0
+ben						S0
+tu						S0
+penses						S0
+aux						S0
+paparazzi						S0
+zéro						S0
+mh						S0
+heureusement						S0
+il						S0
+y						S0
+a						S0
+est-ce	A	moquerie	rebond	rire	positive	S0
+qu'on	A	moquerie	rebond	rire	positive	S0
+peut	A	moquerie	rebond	rire	positive	S0
+dire	A	moquerie	rebond	rire	positive	S0
+qu'un	A	moquerie	rebond	rire	positive	S0
+paparazzo	A	moquerie	rebond	rire	positive	S0
+c'est	A	moquerie	rebond	rire	positive	S0
+discret	A	moquerie	rebond	rire	positive	S0
+discret	A	moquerie	fictionnalisation/lexique	voix souriante	positive	S1
+un	A	moquerie	fictionnalisation/lexique	voix souriante	positive	S1
+paparazzo	A	moquerie	fictionnalisation/lexique	voix souriante	positive	S1
+timide	A	moquerie	fictionnalisation/lexique	voix souriante	positive	S1
+t						S1
+u						S1
+sais						S1
+genre						S1
+euh						S1
+qui						S1
+veut						S1
+pas						S1
+qui	A	moquerie	fictionnalisation/jouer le jeu	rire	positive	S4
+veut	A	moquerie	fictionnalisation/jouer le jeu	rire	positive	S4
+pas	A	moquerie	fictionnalisation/jouer le jeu	rire	positive	S4
+qui	A	moquerie	fictionnalisation/jouer le jeu	rire	positive	S4
+veut	A	moquerie	fictionnalisation/jouer le jeu	rire	positive	S4
+pas	A	moquerie	fictionnalisation/jouer le jeu	rire	positive	S4
+faire	A	moquerie	fictionnalisation/jouer le jeu	rire	positive	S4
+de	A	moquerie	fictionnalisation/jouer le jeu	rire	positive	S4
+mal	A	moquerie	fictionnalisation/jouer le jeu	rire	positive	S4
+ouais	A	moquerie	fictionnalisation/jouer le jeu	rire	positive	S4
+excusez-moi	A	moquerie	fictionnalisation/discours rapporté fictif/jouer le jeu	rire/prosodie	positive	S4
+de	A	moquerie	fictionnalisation/discours rapporté fictif/jouer le jeu	rire/prosodie	positive	S4
+vous	A	moquerie	fictionnalisation/discours rapporté fictif/jouer le jeu	rire/prosodie	positive	S1
+déranger	A	moquerie	fictionnalisation/discours rapporté fictif/jouer le jeu	rire/prosodie	positive	S1
+euh	A	moquerie	fictionnalisation/discours rapporté fictif/jouer le jeu	rire/prosodie	positive	S1
+je	A	moquerie	fictionnalisation/discours rapporté fictif/jouer le jeu	rire/prosodie	positive	S1
+je	A	moquerie	fictionnalisation/discours rapporté fictif/jouer le jeu	rire/prosodie	positive	S1
+passerai	A	moquerie	fictionnalisation/discours rapporté fictif/jouer le jeu	rire/prosodie	positive	S1
+dans	A	moquerie	fictionnalisation/discours rapporté fictif/jouer le jeu	rire/prosodie	positive	S1
+trois	A	moquerie	fictionnalisation/discours rapporté fictif/jouer le jeu	rire/prosodie	positive	S1
+jours	A	moquerie	fictionnalisation/discours rapporté fictif/jouer le jeu	rire/prosodie	positive	S4
+je	A	moquerie	fictionnalisation/discours rapporté fictif/jouer le jeu	rire/prosodie	positive	S4
+vous	A	moquerie	fictionnalisation/discours rapporté fictif/jouer le jeu	rire/prosodie	positive	S4
+avertis	A	moquerie	fictionnalisation/discours rapporté fictif/jouer le jeu	rire/prosodie	positive	S4
+que	A	moquerie	fictionnalisation/discours rapporté fictif/jouer le jeu	rire/prosodie	positive	S4
+je	A	moquerie	fictionnalisation/discours rapporté fictif/jouer le jeu	rire/prosodie	positive	S4
+passerai	A	moquerie	fictionnalisation/discours rapporté fictif/jouer le jeu	rire/prosodie	positive	S4
+dans	A	moquerie	fictionnalisation/discours rapporté fictif/jouer le jeu	rire/prosodie	positive	S4
+trois	A	moquerie	fictionnalisation/discours rapporté fictif/jouer le jeu	rire/prosodie	positive	S4
+jours	A	moquerie	fictionnalisation/discours rapporté fictif/jouer le jeu	rire/prosodie	positive	S4
+euh						S4
+soyez						S4
+zéro	A	moquerie	fictionnalisation/discours rapporté fictif/jouer le jeu	prosodienegative	S4
+soy-	A	moquerie	fictionnalisation/discours rapporté fictif/jouer le jeu	prosodienegative	S4
+soi	A	moquerie	fictionnalisation/discours rapporté fictif/jouer le jeu	prosodienegative	S4
+soyez	A	moquerie	fictionnalisation/discours rapporté fictif/jouer le jeu	prosodienegative	S4
+aimable	A	moquerie	fictionnalisation/discours rapporté fictif/jouer le jeu	prosodienegative	S4
+de	A	moquerie	fictionnalisation/discours rapporté fictif/jouer le jeu	prosodienegative	S1
+m'accueillir	A	moquerie	fictionnalisation/discours rapporté fictif/jouer le jeu	prosodienegative	S1
+mh						S0
+ouais						S0
+ouais						S0
+ouais						S0
+ah						S0
+ouais						S0
+complètement						S0
+hein						S0
+ouais						S0
+ouais						S0
+ouais						S0
+bien						S0
+sûr						S0
+après						S0
+euh						S0
+de						S0
+dire						S0
+que						S0
+euh						S0
+ces						S0
+gens						S0
+là						S0
+n'ont						S0
+pas						S0
+de						S0
+valeurs						S0
+c'est						S0
+pas						S0
+vrai						S0
+parce						S0
+que						S0
+euh						S0
+parce						S0
+que						S0
+parce						S0
+que						S0
+je						S0
+pense						S0
+que						S0
+il						S0
+y						S0
+a						S0
+il						S0
+y						S0
+a						S0
+il						S0
+y						S0
+a						S0
+il						S0
+y						S0
+a						S0
+des						S0
+journalistes						S0
+ou						S0
+des						S0
+paparazzi						S0
+qui						S0
+sont						S0
+respectés						S0
+malgré						S0
+le						S0
+travail						S0
+qu'ils						S0
+font						S0
+je						S0
+pense						S0
+qu'à						S0
+un						S0
+moment						S0
+donné						S0
+euh						S0
+ouais						S0
+tu						S0
+dois						S0
+pas						S0
+tu						S0
+dois						S0
+pas						S0
+franchir						S0
+euh						S0
+une						S0
+certaine						S0
+limite						S0
+quoi						S0
+zéro						S0
+je						S0
+pense						S0
+que						S0
+quand						S0
+tu						S0
+quand						S0
+tu						S0
+déranges						S0
+à						S0
+un						S0
+moment						S0
+tu						S0
+je						S0
+pense						S0
+que						S0
+tu						S0
+dois						S0
+garder						S0
+quand						S0
+même						S0
+une						S0
+certaine						S0
+distance						S0
+dans						S0
+la						S0
+rue						S0
+sans						S0
+aller						S0
+piquer						S0
+la						S0
+la						S0
+vie						S0
+des						S0
+gens						S0
+quoi						S0
+mh						S0
+ah						S0
+ouais						S0
+oui						S0
+mais						S0
+il						S0
+y						S0
+a						S0
+mais						S0
+il						S0
+y						S0
+a						S0
+une						S0
+différence						S0
+entre						S0
+euh						S0
+entre						S0
+euh						S0
+entre						S0
+voler						S0
+une						S0
+image						S0
+dans						S0
+ta						S0
+propriété						S0
+et						S0
+capter						S0
+une						S0
+image						S0
+dans						S0
+la						S0
+rue						S0
+quoi						S0
+ou						S0
+dans						S0
+un						S0
+lieu						S0
+public						S0
+à						S0
+partir						S0
+du						S0
+moment						S0
+de						S0
+toute						S0
+façon						S0
+où						S0
+t						S0
+u						S0
+es						S0
+dans						S0
+la						S0
+rue						S0
+ou						S0
+dans						S0
+un						S0
+lieu						S0
+public						S0
+tu						S0
+dois						S0
+tu						S0
+dois						S0
+forcément						S0
+pas						S0
+te						S0
+mettre						S0
+en						S0
+i-						S0
+ouais						S0
+ouais						S0
+ouais						S0
+ouais						S0
+ouais						S0
+je						S0
+comprends						S0
+ouais						S0
+après						S0
+je						S0
+pense						S0
+qu'il						S0
+faut						S0
+pas						S0
+il						S0
+faut						S0
+pas						S0
+enfumer						S0
+les						S0
+gens						S0
+quoi						S0
+je						S0
+pense						S0
+que						S0
+ce						S0
+si						S0
+tu						S0
+peux						S0
+êt-						S0
+tu						S0
+peux						S0
+avoir						S0
+euh						S0
+tu						S0
+peux						S0
+avoir						S0
+ça						S0
+dans						S0
+la						S0
+tête						S0
+euh						S0
+à						S0
+te						S0
+dire						S0
+euh						S0
+bon						S0
+euh						S0
+je						S0
+peux						S0
+faire						S0
+mon						S0
+métier						S0
+c'est						S0
+un						S0
+sport						S0
+hein						S0
+c'est						S0
+un						S0
+sport						S0
+il						S0
+y						S0
+a						S0
+il						S0
+y						S0
+a						S0
+des						S0
+règles						S0
+euh						S0
+qu'il						S0
+faut						S0
+pas						S0
+que						S0
+j'enfreins						S0
+mais						S0
+euh						S0
+mais						S0
+voilà						S0
+quoi						S0
+ouais						S0
+voilà						S0
+si						S0
+tu						S0
+veux						S0
+pas						S0
+avoir						S0
+des						S0
+retombées						S0
+euh						S0
+néfastes						S0
+de						S0
+toute						S0
+façon						S0
+les						S0
+retombées						S0
+c'est						S0
+soit						S0
+le						S0
+procès						S0
+soit						S0
+te						S0
+faire						S0
+casser						S0
+la						S0
+gueule						S0
+quoi						S0
+hein						S0
+voilà						S0
+euh						S0
+ouais						S0
+ouais						S4
+ah						S4
+ouais						S0
+voilà						S0
+il						S0
+y						S0
+en						S0
+a						S0
+un						S0
+là						S0
+qui						S0
+est						S0
+assez						S0
+cool						S0
+là						S0
+c'est						S0
+c'était						S0
+euh						S0
+je						S0
+crois						S0
+que						S0
+c'est						S0
+Daniel						S0
+Angéli						S0
+tu						S0
+sais						S0
+c'est						S0
+le						S0
+photographe						S0
+des						S0
+stars						S0
+là						S0
+il						S0
+a						S0
+il						S0
+a						S0
+il						S0
+a						S0
+suivi						S0
+euh						S0
+Brigitte						S0
+Bardot						S0
+ouais						S0
+tu						S0
+sais						S0
+la						S0
+photo						S0
+je						S0
+crois						S0
+où						S0
+elle						S0
+est						S0
+euh						S0
+elle						S0
+est						S0
+cul						S0
+nu						S0
+tu						S0
+sais						S0
+elle						S0
+est						S0
+euh						S0
+avec						S0
+euh						S0
+une						S0
+jambe						S0
+comme						S0
+ça						S0
+à						S0
+Saint-Trop						S0
+ez						S0
+tu						S0
+vois						S0
+euh						S0
+où						S0
+euh						S0
+où						S0
+elle						S0
+pose						S0
+euh						S0
+elle						S0
+pose						S0
+je						S0
+crois						S0
+que						S0
+c'est						S0
+c'est						S0
+une						S0
+c'est						S0
+une						S0
+de						S0
+ses						S0
+photos						S0
+c'est						S0
+une						S0
+de						S0
+ses						S0
+photos						S0
+ouais						S0
+ouais						S0
+c'est						S0
+cool						S0
+ouais						S0
+ouais						S0
+j'aime						S0
+bien						S0
+ouais						S0
+ouais						S0
+ça						S0
+matifie						S0
+le						S0
+son						S0
+ça						S0
+matifie						S0
+le						S0
+son						S0
+complètement						S0
+quoi						S0
+ça						S0
+s'en						S0
+e-						S0
+et						S0
+c'est						S0
+et						S0
+ça						S0
+ça						S0
+ça						S0
+évite						S0
+que						S0
+le						S0
+son						S0
+revienne						S0
+et						S0
+se						S0
+mêle						S0
+euh						S0
+est						S0
+brouillé						S0
+quelque						S0
+part						S0
+quoi						S0
+pour						S0
+la						S0
+voix						S0
+hein						S0
+pour						S0
+la						S0
+voix						S0
+ouais						S0
+pour						S0
+la						S0
+voix						S0
+parce						S0
+que						S0
+sur						S0
+un						S0
+instrument						S0
+euh						S0
+le						S0
+son						S0
+est						S0
+pourri						S0
+quoi						S0
+ouais						S0
+c'est						S0
+des						S0
+c'est						S0
+on						S0
+appelle						S0
+ça						S0
+je						S0
+crois						S0
+euh						S0
+des						S0
+des						S0
+plaques						S0
+euh						S0
+alvéolées						S0
+tu						S0
+sais						S0
+et						S0
+qui						S0
+font						S0
+que						S0
+les						S0
+ondes						S0
+elles						S0
+vont						S0
+pas						S0
+elles						S0
+vont						S0
+pas						S0
+réfléchir						S0
+je						S0
+crois						S0
+que						S0
+c'est						S0
+ce						S0
+qu'on						S0
+appelle						S0
+une						S0
+chambre						S0
+sourde						S0
+mh						S0
+mh						S0
+chambre						S0
+sourde						S0
+et						S0
+pour						S0
+les						S0
+prises						S0
+de						S0
+de						S0
+de						S0
+de						S0
+voix						S0
+hein						S0
+mh						S0
+mh						S0
+en						S0
+studio						S0
+non						S0
+non						S0
+non						S0
+en						S0
+studio						S0
+non						S0
+en						S0
+fin						S0
+en						S0
+studio						S0
+en						S0
+pour						S0
+les						S0
+instruments						S0
+de						S0
+musique						S0
+en						S0
+général						S0
+tu						S0
+<as,vois>						S0
+ces						S0
+plaques						S0
+là						S0
+mais						S0
+pas						S0
+tout						S0
+le						S0
+temps						S0
+pas						S0
+sur						S0
+toute						S0
+la						S0
+surface						S0
+les						S0
+bruitages						S0
+ou						S0
+les						S0
+les						S0
+prises						S0
+de						S0
+son						S0
+ah						S0
+je						S0
+sais						S0
+pas						S0
+probablement						S0
+ouais						S0
+mais						S0
+euh						S0
+je						S0
+pense						S0
+que						S0
+le						S0
+le						S0
+son						S0
+doit						S0
+être						S0
+euh						S0
+doit						S0
+être						S0
+énormément						S0
+altéré						S0
+sur						S0
+un						S0
+instrument						S0
+tandis						S0
+que						S0
+sur						S0
+la						S0
+voix						S0
+euh						S0
+je						S0
+je						S0
+pense						S0
+que						S0
+ça						S0
+doit						S0
+ça						S0
+doit						S0
+bénéficier						S0
+à						S0
+l						S0
+ingénieur						S0
+quoi						S0
+qu'il						S0
+prend						S0
+quoi						S0
+il	A	moquerie	onomatopée	prosodie	positive	S0
+de-	A	moquerie	onomatopée	prosodie	positive	S0
+ça	A	moquerie	onomatopée	prosodie	positive	S0
+doit	A	moquerie	onomatopée	prosodie	positive	S0
+éviter	A	moquerie	onomatopée	prosodie	positive	S0
+de	A	moquerie	onomatopée	prosodie	positive	S0
+se	A	moquerie	onomatopée	prosodie	positive	S0
+ah	A	moquerie	onomatopée	prosodie	positive	S0
+ah	A	moquerie	onomatopée	prosodie	positive	S1
+ah	A	moquerie	onomatopée	prosodie	positive	S1
+ah	A	moquerie	onomatopée	prosodie	positive	S1
+ah	A	moquerie	onomatopée	prosodie	positive	S1
+putain	A	moquerie	onomatopée	prosodie	positive	S1
+non	A	moquerie	onomatopée	prosodie	positive	S1
+tu						S0
+veux						S0
+qu'on						S0
+parle						S0
+de						S0
+la						S0
+de						S0
+la						S0
+vanne						S0
+euh						S0
+du						S0
+genre						S0
+ben						S0
+moi						S0
+ça						S0
+me						S0
+rappelait						S0
+une						S0
+une						S0
+vacon						S0
+tu						S0
+vois						S0
+quand						S0
+euh						S0
+quand						S0
+euh						S0
+euh						S0
+il						S0
+y						S0
+avait						S0
+une						S0
+va-						S0
+je						S0
+crois						S0
+il						S0
+y						S0
+avait						S0
+un						S0
+cocher						S0
+euh						S0
+qui						S0
+qui						S0
+suivait						S0
+un						S0
+cheval						S0
+et						S0
+euh						S0
+le						S0
+cheval						S0
+à						S0
+un						S0
+moment						S0
+parle						S0
+euh						S0
+et						S0
+le						S0
+mec						S0
+euh						S0
+impassible						S0
+répond						S0
+ah						S0
+c'est						S0
+la						S0
+première						S0
+fois						S0
+que						S0
+j'entends						S0
+un						S0
+cheval						S0
+parler						S0
+tu						S0
+vois						S0
+c'est						S0
+un						S0
+peu						S0
+c'est						S0
+un						S0
+peu						S0
+le						S0
+le						S0
+le						S0
+la						S0
+même						S0
+histoire						S0
+en						S0
+fait						S0
+euh						S0
+la						S0
+la						S0
+la						S0
+la						S0
+grenouille						S0
+lui						S0
+promet						S0
+lui						S0
+promet						S0
+tant						S0
+et						S0
+tant						S0
+mais						S0
+lui						S0
+euh						S0
+finalement						S0
+euh						S0
+se						S0
+laisse						S0
+pas						S0
+abuser						S0
+ou						S0
+euh						S0
+se						S0
+laisse						S0
+pas						S0
+détourner						S0
+par						S0
+elle						S0
+parce						S0
+qu'il						S0
+lui						S0
+dit						S0
+à						S0
+la						S0
+fin						S0
+euh						S0
+j'ai						S0
+pas						S0
+le						S0
+temps						S0
+tu						S0
+vois						S0
+d						S0
+avoir						S0
+une						S0
+copine						S0
+mais						S0
+par						S0
+contre						S0
+euh						S0
+une						S2
+grenouille						S2
+qui						S2
+parle						S2
+euh						S2
+c'est						S3
+cool						S3
+quoi						S3
+c'est						S3
+amusant						S3
+tu						S3
+vois						S3
+genre						S3
+euh						S3
+voilà						S3
+tu						S3
+vois						S0
+euh						S0
+je						S0
+te						S0
+prends						S0
+comme						S0
+ça						S0
+juste						S0
+pour						S0
+m'amuser						S0
+quoi						S0
+avec						S0
+toi						S0
+quoi						S0
+et						S0
+ben						S0
+et						S0
+ben						S0
+ben						S0
+elle						S0
+e-						S0
+le						S0
+le						S0
+le						S0
+le						S0
+fait						S0
+est						S0
+que						S0
+le						S0
+le						S0
+le						S0
+mec						S0
+est						S0
+transporté						S0
+du						S0
+vois						S0
+dans						S0
+cette						S0
+euh						S0
+dans							S0
+dans						S0
+dans						S0
+dans						S0
+cette						S0
+euh						S0
+comment						S0
+dire						S0
+transposition						S0
+une						S0
+grenouille						S0
+deviendrait						S0
+prin-						S0
+princesse						S0
+tu						S0
+vois						S0
+et						S0
+euh						S0
+voilà						S0
+ouais						S0
+il						S0
+se						S0
+lai-						S0
+il						S0
+se						S0
+laisse						S0
+influencer						S0
+par						S0
+ce						S0
+comte						S0
+ouais						S0
+voilà						S0
+et						S0
+et						S0
+et						S0
+en						S0
+plus						S0
+on						S0
+a						S0
+on						S0
+a						S0
+on						S0
+a						S0
+le						S0
+terme						S0
+ingénieur						S0
+tu						S0
+vois						S0
+qui						S0
+qui						S0
+vient						S0
+qui						S0
+vient						S0
+euh						S0
+qui						S0
+pré-suppose						S0
+en						S0
+fait						S0
+euh						S0
+le						S0
+type						S0
+occupé						S0
+on						S0
+aurait	L/I	autodérision/moquerie	comparaison	prosodie	positive	S0
+pu	L/I	autodérision/moquerie	comparaison	prosodie	positive	S0
+dire	L/I	autodérision/moquerie	comparaison	prosodie	positive	S0
+étudiant	L/I	autodérision/moquerie	comparaison	prosodie	positive	S0
+en	L/I	autodérision/moquerie	comparaison	prosodie	positive	S0
+L	L/I	autodérision/moquerie	comparaison	prosodie	positive	S0
+de	L/I	autodérision/moquerie	comparaison	prosodie	positive	S0
+sciences	L/I	autodérision/moquerie	comparaison	prosodie	positive	S0
+du	L/I	autodérision/moquerie	comparaison	prosodie	positive	S0
+langage	L/I	autodérision/moquerie	comparaison	prosodie	positive	S2
+avec						S2
+avec						S2
+m-						S2
+avec							S4
+avec						S4
+avec	A	moquerie	trope communicationnel	rire/prosodie	positive	S4
+madame	A	moquerie	trope communicationnel	rire/prosodie	positive	S4
+Priego	A	moquerie	trope communicationnel	rire/prosodie	positive	S4
+Valverde	A	moquerie	trope communicationnel	rire/prosodie	positive	S4
+comme	A	moquerie	trope communicationnel	rire/prosodie	positive	S4
+remarque	A	moquerie	trope communicationnel	rire/prosodie	positive	S1
+c'est	A	moquerie	trope communicationnel	rire/prosodie	positive	S1
+pas	A	moquerie	trope communicationnel	rire/prosodie	positive	S1
+la	A	moquerie	trope communicationnel	rire/prosodie	positive	S1
+c'est						S1
+pas						S1
+la						S1
+plus						S0
+euh						S0
+la						S0
+plus						S0
+chronophage						S0
+comme						S0
+matière						S0
+ouais						S0
+c'est-à-dire						S0
+qui						S0
+te						S0
+bouffe						S0
+du						S0
+temps						S0
+mh						S0
+ouais						S0
+complètement						S0
+ouais						S0
+avec						S0
+euh						S0
+avec						S0
+Alice						S0
+Vittrant						S0
+qui						S0
+te						S0
+donne						S0
+euh						S0
+tant						S0
+et						S0
+tant						S0
+de						S0
+résumés						S0
+ouais						S0
+zéro						S0
+le						S0
+mardi						S0
+ah							S0
+ouais						S0
+de						S0
+monsieur						S0
+Tournadre						S0
+mh						S0
+non						S0
+moi						S0
+je						S0
+pense						S0
+que						S0
+c'est						S0
+plutôt						S0
+euh						S0
+c'est						S0
+c'est						S0
+plutôt						S0
+les						S0
+articles						S0
+qu'il						S0
+nous						S0
+donne						S0
+à						S0
+lire						S0
+l	A	moquerie	lexique	prosodie	positive	S0
+antitoussif	A	moquerie	lexique	prosodie	positive	S0
+là	A	moquerie	lexique	prosodie	positive	S0
+qu'il	A	moquerie	lexique	prosodie	positive	S0
+nous	A	moquerie	lexique	prosodie	positive	S0
+a	A	moquerie	lexique	prosodie	positive	S0
+donné	A	moquerie	lexique	prosodie	positive	S0
+à	A	moquerie	lexique	prosodie	positive	S0
+lire	A	moquerie	lexique	prosodie	positive	S0
+la	A	moquerie	lexique	prosodie	positive	S0
+dernière	A	moquerie	lexique	prosodie	positive	S0
+fois	A	moquerie	lexique	prosodie	positive	S0
+euh	A	moquerie	lexique	prosodie	positive	S0
+j'en	A	moquerie	lexique	prosodie	positive	S0
+pouvais	A	moquerie	lexique	prosodie	positive	S0
+plus	A	moquerie	lexique	prosodie	positive	S0
+quoi	A	moquerie	lexique	prosodie	positive	S0
+quinze						S0
+lignes						S0
+euh						S0
+j'avais						S0
+l						S0
+impression						S0
+d						S0
+être						S0
+en						S0
+master						S0
+quoi						S0
+non						S0
+même						S0
+pas						S0
+non						S0
+non						S0
+non						S0
+non						S0
+non						S0
+je						S0
+lui						S0
+ai						S0
+dit						S0
+d						S0
+ailleurs						S0
+c'est						S0
+vraiment						S0
+très						S0
+compliqué						S0
+j'avais						S0
+l						S0
+impression						S0
+d						S0
+apprendre						S0
+à						S0
+parler						S0
+basque						S0
+quoi						S0
+avec						S0
+ton						S0
+article						S0
+euh						S0
+de						S0
+quinze						S0
+lignes						S0
+de						S0
+quinze						S0
+pages						S0
+et						S0
+il						S0
+me						S0
+dit						S0
+oui						S0
+non						S0
+non						S0
+mais						S0
+de						S0
+toute						S0
+façon						S0
+euh						S0
+euh						S0
+je						S0
+je						S0
+non						S0
+non						S0
+ouais						S4
+je						S1
+mets						S1
+la						S1
+barre						S1
+euh						S1
+très						S1
+haut						S1
+comme						S1
+ça						S1
+ça						S1
+vous						S1
+servira						S1
+quoi						S0
+tu						S0
+vois						S0
+et						S0
+les						S0
+il						S0
+y						S0
+avait						S0
+quoi						S0
+soixante						S0
+pages						S0
+entre						S0
+les						S0
+entre						S0
+les						S0
+trois						S0
+articles						S0
+qu'elle						S0
+nous						S0
+a						S0
+donnés						S0
+ouais						S0
+entre						S0
+les						S1
+trois						S1
+articles						S1
+il						S1
+y						S1
+en						S1
+a						S1
+non						S1
+je						S3
+parle						S3
+d						S3
+antitoussif						S3
+parce						S3
+que						S3
+oui	A	moquerie	fictionnalisation	prosodie	positive	S3
+non	A	moquerie	fictionnalisation	prosodie	positive	S3
+non	A	moquerie	fictionnalisation	prosodie	positive	S3
+mais	A	moquerie	fictionnalisation	prosodie	positive	S3
+c'est	A	moquerie	fictionnalisation	prosodie	positive	S3
+à	A	moquerie	fictionnalisation	prosodie	positive	S3
+cause	A	moquerie	fictionnalisation	prosodie	positive	S3
+de	A	moquerie	fictionnalisation	prosodie	positive	X
+à	A	moquerie	fictionnalisation	prosodie	positive	X
+cause	A	moquerie	fictionnalisation	prosodie	positive	X
+de	A	moquerie	fictionnalisation	prosodie	positive	X
+de	A	moquerie	fictionnalisation	prosodie	positive	X
+Mary	A	moquerie	fictionnalisation	prosodie	positive	X
+là	A	moquerie	fictionnalisation	prosodie	positive	X
+qui	A	moquerie	fictionnalisation	prosodie	positive	X
+qui	A	moquerie	fictionnalisation	prosodie	positive	X
+parlait	A	moquerie	fictionnalisation	prosodie	positive	X
+pas	A	moquerie	fictionnalisation	prosodie	positive	X
+et	A	moquerie	fictionnalisation	prosodie	positive	X
+tu	A	moquerie	fictionnalisation	prosodie	positive	S2
+vois	A	moquerie	fictionnalisation	prosodie	positive	S2
+il	A	moquerie	fictionnalisation	prosodie	positive	S2
+est	A	moquerie	fictionnalisation	prosodie	positive	S2
+arrivé	A	moquerie	fictionnalisation	prosodie	positive	S2
+avec	A	moquerie	fictionnalisation	prosodie	positive	S2
+sa	A	moquerie	fictionnalisation	prosodie	positive	S2
+petite	A	moquerie	fictionnalisation	prosodie	positive	S2
+lotion	A	moquerie	fictionnalisation	prosodie	positive	S2
+du	A	moquerie	fictionnalisation	prosodie	positive	S2
+du	A	moquerie	fictionnalisation	prosodie	positive	S2
+Tibet	A	moquerie	fictionnalisation	prosodie	positive	S2
+là	A	moquerie	fictionnalisation	prosodie	positive	S2
+euh	A	moquerie	fictionnalisation	prosodie	positive	S2
+je	A	moquerie	fictionnalisation/discours rapporté fictif	prosodie	positive	S1
+vous	A	moquerie	fictionnalisation/discours rapporté fictif	prosodie	positive	S1
+donne	A	moquerie	fictionnalisation/discours rapporté fictif	prosodie	positive	S1
+une	A	moquerie	fictionnalisation/discours rapporté fictif	prosodie	positive	S1
+petite	A	moquerie	fictionnalisation/discours rapporté fictif	prosodie	positive	S1
+potion	A	moquerie	fictionnalisation/discours rapporté fictif	prosodie	positive	S1
+là	A	moquerie	fictionnalisation/discours rapporté fictif	prosodie	positive	S1
+du	A	moquerie	fictionnalisation/discours rapporté fictif	prosodie	positive	S1
+Tibet	A	moquerie	fictionnalisation/discours rapporté fictif	prosodie	positive	S1
+sur	A	moquerie	fictionnalisation/discours rapporté fictif	prosodie	positive	S1
+vot-	A	moquerie	fictionnalisation/discours rapporté fictif	prosodie	positive	S1
+su-	A	moquerie	fictionnalisation/discours rapporté fictif	prosodie	positive	S1
+sur	A	moquerie	fictionnalisation/discours rapporté fictif	prosodie	positive	S1
+un	A	moquerie	fictionnalisation/discours rapporté fictif	prosodie	positive	S1
+sucre	A	moquerie	fictionnalisation/discours rapporté fictif	prosodie	positive	S1
+ou	A	moquerie	fictionnalisation/discours rapporté fictif	prosodie	positive	S1
+sur	A	moquerie	fictionnalisation/discours rapporté fictif	prosodie	positive	S1
+un	A	moquerie	fictionnalisation/discours rapporté fictif	prosodie	positive	S1
+biscuit	A	moquerie	fictionnalisation/discours rapporté fictif	prosodie	positive	S1
+ouais						S4
+elle	A	moquerie	fictionnalisation	rire/prosodie	positive	S4
+était	A	moquerie	fictionnalisation	rire/prosodie	positive	S4
+dévoisée	A	moquerie	fictionnalisation	rire/prosodie	positive	S4
+il	A	moquerie	fictionnalisation	rire/prosodie	positive	S4
+l	A	moquerie	fictionnalisation	rire/prosodie	positive	S4
+a	A	moquerie	fictionnalisation	rire/prosodie	positive	S4
+voisée	A	moquerie	fictionnalisation	rire/prosodie	positive	S4
+il						S4
+est	A	moquerie	fictionnalisation	voix souriante	positive	S3
+voisé	A	moquerie	fictionnalisation	voix souriante	positive	S3
+à	A	moquerie	fictionnalisation	voix souriante	positive	S3
+nouveau	A	moquerie	fictionnalisation	voix souriante	positive	S3
+et	A	moquerie	fictionnalisation	rire/prosodie	positive	S3
+après	A	moquerie	fictionnalisation	rire/prosodie	positive	S3
+elle	A	moquerie	fictionnalisation	rire/prosodie	positive	S3
+a	A	moquerie	fictionnalisation	rire/prosodie	positive	S3
+vu	A	moquerie	fictionnalisation	rire/prosodie	positive	S3
+des	A	moquerie	fictionnalisation	rire/prosodie	positive	S3
+lutins	A	moquerie	fictionnalisation	rire/prosodie	positive	S3
+euh	A	moquerie	fictionnalisation	rire/prosodie	positive	S3
+tibétains	A	moquerie	fictionnalisation	rire/prosodie	positive	S3
+pendant	A	moquerie	fictionnalisation	rire/prosodie	positive	S3
+pendant	A	moquerie	fictionnalisation	rire/prosodie	positive	S3
+toute	A	moquerie	fictionnalisation	rire/prosodie	positive	S3
+une	A	moquerie	fictionnalisation	rire/prosodie	positive	S3
+semaine	A	moquerie	fictionnalisation	rire/prosodie	positive	S4
+ouais						S1
+du						S1
+coup						S0
+euh						S0
+du						S0
+coup						S0
+euh						S0
+bon						S0
+finalement						S0
+ils						S0
+étaient						S0
+pas						S0
+terribles						S0
+ces						S0
+vannes						S0
+hein						S0
+non						S0
+ouais						X
+en						X
+fin						X
+frog						S0
+joke						S0
+c'était						S0
+une						S0
+vanne						S0
+hein						S0
+frog						S0
+joke						S0
+mh						S0
+tè						S0
+j'ai						S0
+lu						S0
+un						S0
+article						S0
+la						S0
+dernière						S0
+fois						S0
+euh						S0
+dans						S0
+le						S0
+Canard						S0
+Enchainé						S0
+non						S0
+Charlie						S0
+Hebdo						S0
+pardon						S0
+Charlie						S0
+Hebdo						S0
+euh						S0
+qui						S0
+a						S0
+été						S0
+racheté						S0
+par						S0
+Le						S0
+Monde						S0
+je						S0
+crois						S0
+ouais						S0
+il						S0
+y						S0
+a						S0
+Pellou						S0
+qui						S0
+s'est						S0
+cassé						S0
+il						S0
+y						S0
+a						S0
+il						S0
+y						S0
+a						S0
+Luce						S0
+qui						S0
+a						S0
+ét-						S0
+qui						S0
+s'est						S0
+cassé						S0
+ouais						S0
+j-						S0
+ouais						S0
+il						S0
+me						S0
+semble						S0
+ouais						S0
+c'est						S0
+un						S0
+co-						S0
+un						S0
+coco						S0
+qui						S0
+m'a						S0
+dit						S0
+ça						S0
+il						S0
+y						S0
+a						S0
+quoi						S0
+il						S0
+y						S0
+a						S0
+trois						S0
+trois						S0
+quatre						S0
+semaines						S0
+un						S0
+communiste						S0
+de						S0
+de						S0
+un						S0
+coco						S0
+de						S0
+de						S0
+merde						S0
+comment						S0
+elle						S0
+s'appelle						S0
+cette						S0
+ville						S0
+communiste						S0
+mh						S0
+à						S0
+coté						S0
+de						S0
+de						S0
+Toulon						S0
+bon						S0
+peu						S0
+importe						S0
+ça						S0
+me						S0
+reviendra						S0
+à						S0
+coté						S0
+de						S0
+Saint						S0
+Mandrier						S0
+euh						S0
+non						S0
+pas						S0
+non						S0
+non						S0
+pas						S0
+Menton						S0
+et						S0
+donc						S0
+il						S0
+euh						S0
+donc						S0
+j'ai						S0
+j'ai						S0
+lu						S0
+dans						S0
+Charlie						S0
+Hebdo						S0
+euh						S0
+justement						S0
+pour						S0
+une						S0
+usu						S0
+r						S0
+pation						S0
+d						S0
+identité						S0
+qu'un						S0
+infirmier						S0
+je						S0
+crois						S0
+anesthésiste						S0
+s'est						S0
+fait						S0
+passer						S0
+pour						S0
+euh						S0
+ou						S0
+un						S0
+infirmier						S0
+tout						S0
+court						S0
+s'est						S0
+passé						S0
+pour						S0
+un						S0
+chirurgien						S0
+anesthésiste						S0
+ou						S0
+un						S0
+docteur						S0
+anesthésiste						S0
+oui						S0
+et						S0
+il						S0
+a						S0
+il						S0
+a						S0
+dupé						S0
+tout						S0
+le						S0
+monde						S0
+mais						S0
+le						S0
+tru-						S0
+le						S0
+type						S0
+c'était						S0
+un						S0
+c'était						S0
+un						S0
+charmeur						S0
+il						S0
+se						S0
+tapait						S0
+tout						S0
+tout						S0
+ce						S0
+qui						S0
+tout						S0
+ce						S0
+qui						S0
+avait						S0
+de						S0
+tout						S0
+ce						S0
+qui						S0
+marchait						S0
+quoi						S0
+tu						S0
+vois						S0
+et						S0
+euh						S0
+donc						S0
+c'était						S0
+il						S0
+avait						S0
+cette						S0
+réputation						S0
+là						S0
+d						S0
+être						S0
+euh						S0
+d						S0
+être						S0
+un						S0
+d						S0
+être						S0
+un						S0
+dragueur						S0
+et						S0
+de						S0
+consommer						S0
+tu						S0
+vois						S0
+a-						S0
+abonda-						S0
+abondamment						S0
+euh						S0
+et						S0
+il						S0
+a						S0
+été						S0
+muté						S0
+dans						S0
+un						S0
+autre						S0
+hôpital						S0
+et						S0
+du						S0
+coup						S0
+ben						S0
+ouais						S0
+il						S0
+était						S0
+infirmier						S0
+il						S0
+faisait						S0
+croire						S0
+son						S0
+identité						S0
+tu						S0
+vois						S0
+comme						S0
+euh						S0
+comme						S0
+lui						S0
+là						S0
+il						S0
+est						S0
+muté						S0
+dans						S0
+un						S0
+autre						S0
+hôpital						S0
+et	A	moquerie	lexique	absence	positive	S0
+du	A	moquerie	lexique	absence	positive	S0
+coup	A	moquerie	lexique	absence	positive	S0
+pareil	A	moquerie	lexique	absence	positive	S0
+il	A	moquerie	lexique	absence	positive	S0
+continue	A	moquerie	lexique	absence	positive	S0
+son	A	moquerie	lexique	absence	positive	S0
+son	A	moquerie	lexique	absence	positive	S0
+jeu	A	moquerie	lexique	absence	positive	S0
+de	A	moquerie	lexique	absence	positive	S0
+son	A	moquerie	lexique	absence	positive	S0
+jeu	A	moquerie	lexique	absence	positive	S0
+de	A	moquerie	lexique	absence	positive	S0
+séduction	A	moquerie	lexique	absence	positive	S0
+et	A	moquerie	lexique	absence	positive	S0
+de	A	moquerie	lexique	absence	positive	S0
+de	A	moquerie	lexique	absence	positive	S0
+consommation	A	moquerie	lexique	absence	positive	S0
+de	A	moquerie	lexique	absence	positive	S0
+viande	A	moquerie	lexique	absence	positive	S0
+hein	A	moquerie	lexique	absence	positive	S0
+hein						S0
+puisque						S0
+voilà						S0
+ouais						S1
+voilà						S1
+il	A	moquerie	lexique	prosodie	positive	S1
+était	A	moquerie	lexique	prosodie	positive	S1
+bien	A	moquerie	lexique	prosodie	positive	S1
+carnivore	A	moquerie	lexique	prosodie	positive	S1
+le	A	moquerie	lexique	prosodie	positive	S1
+monsieur	A	moquerie	lexique	prosodie	positive	S1
+hein	A	moquerie	lexique	prosodie	positive	S1
+et						S1
+euh						S1
+et						S0
+mais						S0
+par						S0
+contre						S0
+euh						S0
+sa						S0
+femme						S0
+l						S0
+a						S0
+appris						S0
+et						S0
+l						S0
+a						S0
+dénoncé						S0
+oui						S0
+des						S0
+infirmières						S2
+ouais						S2
+euh						S2
+il						S2
+consommait						S2
+les						S2
+infirmières						S0
+les						S0
+infirmières						S0
+ouais						S0
+et						S0
+euh						S0
+et						S0
+donc						S0
+euh						S0
+sa						S0
+femme						S0
+l						S0
+a						S0
+appris						S0
+et						S0
+euh						S0
+elle						S0
+l						S0
+a						S0
+dénoncé						S0
+hein						S0
+le						S0
+sport						S0
+euh						S0
+le	S	situation	comparaison	absence	positive	S0
+sport	S	situation	comparaison	absence	positive	S0
+national	S	situation	comparaison	absence	positive	S0
+euh	S	situation	comparaison	absence	positive	S0
+en						S0
+euh						S0
+juste						S0
+pendant						S0
+la						S0
+guerre						S0
+hein						S0
+tu						S0
+vois						S0
+hein						S0
+euh						S0
+il						S0
+parait						S0
+que						S0
+quand						S0
+ils						S0
+ont						S0
+ouvert						S0
+les						S0
+les						S0
+les						S0
+les						S0
+armoires						S0
+de						S0
+de						S0
+la						S0
+de						S0
+la						S0
+Wermarcht						S0
+ou						S0
+je						S0
+sais						S0
+pas						S0
+la						S0
+gestapo						S0
+ils						S0
+ont						S0
+trouvé						S0
+euh						S0
+des						S0
+milliers						S0
+et						S0
+des						S0
+milliers						S0
+de						S0
+lettres						S0
+de						S0
+délation						S0
+hein						S0
+ouais						S0
+ouais						S0
+ouais						S0
+les						S0
+pages						S0
+obscures						S0
+de						S0
+l						S0
+histoire						S0
+de						S0
+France						S0
+et						S0
+donc						S0
+euh						S0
+ben						S0
+sa						S0
+femme						S0
+l						S0
+a						S0
+l						S0
+a						S0
+l						S0
+a						S0
+dénoncé						S0
+et						S0
+évidemment						S0
+euh						S0
+ben						S0
+le						S0
+type						S0
+a						S0
+été						S0
+euh						S0
+a						S0
+été						S0
+démasqué						S0
+et						S0
+euh						S0
+quand						S0
+il						S0
+a						S0
+é-						S0
+quand						S0
+il						S0
+a						S0
+été						S0
+jugé						S0
+en						S0
+fait						S0
+euh						S0
+il						S0
+avait						S0
+pris						S0
+la						S0
+la						S0
+poudre						S0
+d						S0
+escampette						S0
+le						S0
+mec						S0
+s'était						S0
+cassé						S0
+et						S0
+donc						S0
+on						S0
+sait						S0
+plus						S0
+ou						S0
+il						S0
+est						S0
+quoi						S0
+et						S0
+il						S0
+parait						S0
+que						S0
+c'était						S0
+un						S0
+excellent						S0
+médecin						S0
+euh						S0
+médecin						S0
+anesthésiste						S0
+voilà						S0
+ouais						S0
+médecin						S0
+anesthésiste						S0
+voilà						S0
+avant						S0
+que						S0
+sa						S0
+femme						S0
+la						S0
+dénonce						S0
+voilà						S0
+il						S0
+avait						S0
+pas						S0
+les						S0
+diplômes						S0
+personne						S0
+a						S0
+vérifié						S0
+les						S0
+diplômes						S0
+et						S0
+il						S0
+ét-						S0
+il						S0
+il						S0
+était						S0
+vraiment						S0
+apprécié						S0
+quoi						S0
+il						S0
+était						S0
+vraiment						S0
+apprécié						S0
+un						S0
+super						S0
+je 						S0
+sais						S0
+pas						S0
+ben						S0
+le						S0
+mec						S0
+est						S0
+doué						S0
+hein						S0
+euh						S0
+je						S0
+sais						S0
+pas						S0
+le						S0
+mec						S0
+est						S0
+doué						S0
+au						S0
+je						S0
+sais						S0
+pas						S0
+hein						S0
+euh						S0
+ouais						S0
+ça						S0
+ça						S0
+parait						S0
+non						S0
+même						S0
+pas						S0
+il						S0
+est						S0
+il						S0
+est						S0
+parti						S0
+il						S0
+a						S0
+il						S0
+est						S0
+il						S0
+a						S0
+il						S0
+a						S0
+fuit						S0
+il						S0
+a						S0
+été						S0
+jugé						S0
+probablement						S0
+par						S0
+contumace						S0
+contumace						S0
+c'est						S0
+quand						S0
+tu						S0
+te						S0
+présentes						S0
+pas						S0
+au						S0
+procés						S0
+tu						S0
+t-						S0
+tu						S0
+te						S0
+présentes						S0
+pas						S0
+au						S0
+procés						S0
+en						S0
+fait						S0
+par						S0
+exemple						S0
+euh						S0
+je						S0
+sais						S0
+pas						S0
+euh						S0
+euh						S0
+je						S0
+sais						S0
+moi						S0
+euh						S0
+tu						S0
+passes						S0
+euh						S0
+cinq						S0
+cents						S0
+grammes						S0
+de						S0
+shit						S0
+à						S0
+la						S0
+frontière						S0
+euh						S0
+on						S0
+te						S0
+juge						S0
+euh						S0
+t						S0
+u						S0
+as						S0
+décidé						S0
+de						S0
+pas						S0
+de						S0
+pas						S0
+passer						S0
+à						S0
+au						S0
+procès						S0
+donc						S0
+tu						S0
+te						S0
+casses						S0
+hein						S0
+où						S0
+tu						S0
+veux						S0
+euh						S0
+comme						S0
+Ivan						S0
+Colona						S0
+dix						S0
+mois						S0
+en						S0
+Corse						S0
+dans						S0
+une						S0
+vieille						S0
+citerne						S0
+et						S0
+euh						S0
+et						S0
+là						S0
+tu						S0
+es						S0
+jugé						S0
+par						S0
+contumace						S0
+c'est-à-dire						S0
+que						S0
+tu						S0
+as						S0
+une						S0
+peine						S0
+qui						S0
+tombe						S0
+euh						S0
+et						S0
+ouais						S0
+donc						S0
+euh						S0
+eh						S0
+tu						S0
+es						S0
+parti						S0
+mais						S0
+euh						S0
+le						S0
+jour						S0
+où						S0
+ils						S0
+t'attrapent						S0
+euh						S0
+voilà						S0
+tu						S0
+es						S0
+dans						S0
+la						S0
+merde						S0
+dix						S0
+ans						S0
+ou						S0
+quinze						S0
+ans						S0
+hein						S0
+je						S0
+crois						S0
+hein						S0
+euh						S0
+ouais						S1
+t-						S1
+elles						S1
+te						S1
+plaisent						S1
+ouais						S1
+chaussettes						S1
+de						S1
+chaussettes	L	autodérision	jouer le jeu/absurde	prosodie	positive	S1
+de	L	autodérision	jouer le jeu/absurde	prosodie	positive	S1
+ski	L	autodérision	jouer le jeu/absurde	prosodie	positive	S1
+folkloriques						S2
+c'est						S4
+c'est	L	autodérision	jouer le jeu/référence partagée	rire/prosodie	positive	S4
+exotique	L	autodérision	jouer le jeu/référence partagée	rire/prosodie	positive	S4
+hein	L	autodérision	jouer le jeu/référence partagée	rire/prosodie	positive	S4
+ça	L	autodérision	jouer le jeu/référence partagée	rire/prosodie	positive	S4
+fait	L	autodérision	jouer le jeu/référence partagée	rire/prosodie	positive	S3
+un	L	autodérision	jouer le jeu/référence partagée	rire/prosodie	positive	S3
+peu	L	autodérision	jouer le jeu/référence partagée	rire/prosodie	positive	S3
+tibétain	L	autodérision	jouer le jeu/référence partagée	rire/prosodie	positive	S3
+un	L/A	autodérision/moquerie	référence partagée	voix souriante	positive	S3
+peu	L/A	autodérision/moquerie	référence partagée	voix souriante	positive	S3
+les	L/A	autodérision/moquerie	référence partagée	voix souriante	positive	S3
+modèles	L/A	autodérision/moquerie	référence partagée	voix souriante	positive	S3
+tibétain	L/A	autodérision/moquerie	référence partagée	voix souriante	positive	S3
+d	L/A	autodérision/moquerie	référence partagée	voix souriante	positive	S3
+ailleurs	L/A	autodérision/moquerie	référence partagée	voix souriante	positive	S3
+en	L/A	autodérision/moquerie	référence partagée	voix souriante	positive	S3
+cours	L/A	autodérision/moquerie	référence partagée	voix souriante	positive	S3
+euh	L/A	autodérision/moquerie	référence partagée	voix souriante	positive	S3
+monsieur	L/A	autodérision/moquerie	référence partagée	voix souriante	positive	S3
+Tournadre	L/A	autodérision/moquerie	référence partagée	voix souriante	positive	S3
+euh	L/A	autodérision/moquerie	référence partagée	voix souriante	positive	S3
+tu	L/A	autodérision/moquerie	référence partagée	voix souriante	positive	S3
+vois	L/A	autodérision/moquerie	référence partagée	voix souriante	positive	S3
+euh	L/A	autodérision/moquerie	référence partagée	voix souriante	positive	S3
+pour	L/A	autodérision/moquerie	référence partagée	voix souriante	positive	S3
+faire	L/A	autodérision/moquerie	référence partagée	voix souriante	positive	S3
+une	L/A	autodérision/moquerie	référence partagée	voix souriante	positive	S3
+allusion	L/A	autodérision/moquerie	référence partagée	voix souriante	positive	S3
+voilà						S3
+le	L/A	autodérision/moquerie	fictionnalisation/jouer le jeu/répétition	voix souriante	positive	S4
+pied	L/A	autodérision/moquerie	fictionnalisation/jouer le jeu/répétition	voix souriante	positive	S4
+sur	L/A	autodérision/moquerie	fictionnalisation/jouer le jeu/répétition	voix souriante	positive	S4
+la	L/A	autodérision/moquerie	fictionnalisation/jouer le jeu/répétition	voix souriante	positive	S4
+table	L/A	autodérision/moquerie	fictionnalisation/jouer le jeu/répétition	voix souriante	positive	S4
+et	L/A	autodérision/moquerie	fictionnalisation/jouer le jeu/répétition	voix souriante	positive	S4
+et	L/A	autodérision/moquerie	fictionnalisation/jouer le jeu/répétition	voix souriante	positive	S4
+je	L/A	autodérision/moquerie	fictionnalisation/jouer le jeu/répétition	voix souriante	positive	S1
+je	L/A	autodérision/moquerie	fictionnalisation/jouer le jeu/répétition	voix souriante	positive	S1
+je	L/A	autodérision/moquerie	fictionnalisation/jouer le jeu/répétition	voix souriante	positive	S1
+lui	L/A	autodérision/moquerie	fictionnalisation/jouer le jeu/répétition	voix souriante	positive	S1
+mon-	L/A	autodérision/moquerie	fictionnalisation/jouer le jeu/répétition	voix souriante	positive	S1
+je	L/A	autodérision/moquerie	fictionnalisation/jouer le jeu/répétition	voix souriante	positive	S1
+lui	L/A	autodérision/moquerie	fictionnalisation/jouer le jeu/répétition	voix souriante	positive	S1
+montre	L/A	autodérision/moquerie	fictionnalisation/jouer le jeu/répétition	voix souriante	positive	S1
+mes	L/A	autodérision/moquerie	fictionnalisation/jouer le jeu/répétition	voix souriante	positive	S1
+chaussettes	L/A	autodérision/moquerie	fictionnalisation/jouer le jeu/répétition	voix souriante	positive	S1
+ouais	L/A	autodérision/moquerie	fictionnalisation/jouer le jeu/répétition	voix souriante	positive	S1
+mh						S0
+mh						S0
+remarque						S0
+on						S0
+v-						S0
+ça						S0
+ça						S0
+fait						S0
+plus						S0
+par-						S0
+penser						S0
+à						S0
+un						S0
+truc						S0
+rasta						S0
+ouais						S0
+Jamaïque						S0
+ouais						S0
+Jamaïque						S0
+zéro						S0
+Jamaïque	I	moquerie	référence partagée	absence	positive	S0
+c'est	I	moquerie	référence partagée	absence	positive	S0
+pour	I	moquerie	référence partagée	absence	positive	S0
+toi	I	moquerie	référence partagée	absence	positive	S0
+hein	I	moquerie	référence partagée	absence	positive	S0
+t-	I	moquerie	fictionnalisation	prosodie	positive	S4
+toi	I	moquerie	fictionnalisation	prosodie	positive	S2
+blonde	I	moquerie	fictionnalisation	prosodie	positive	S2
+en	I	moquerie	fictionnalisation	prosodie	positive	S2
+Afrique	I	moquerie	fictionnalisation	prosodie	positive	S2
+tu	I	moquerie	fictionnalisation	prosodie	positive	S2
+fais	I	moquerie	fictionnalisation	prosodie	positive	S2
+un	I	moquerie	fictionnalisation	prosodie	positive	S2
+malheur	I	moquerie	fictionnalisation	prosodie	positive	S2
+hein	I	moquerie	fictionnalisation	prosodie	positive	S2
+hein						S4
+il	I	moquerie	fictionnalisation/jouer le jeu	voix souriante/prosodie	positive	S2
+veulent	I	moquerie	fictionnalisation/jouer le jeu	voix souriante/prosodie	positive	S2
+tous	I	moquerie	fictionnalisation/jouer le jeu	voix souriante/prosodie	positive	S2
+t'épouser	I	moquerie	fictionnalisation/jouer le jeu	voix souriante/prosodie	positive	S2
+quoi	I	moquerie	fictionnalisation/jouer le jeu	voix souriante/prosodie	positive	S2
+hein	I	moquerie	fictionnalisation/jouer le jeu	voix souriante/prosodie	positive	S2
+mille	I	moquerie	fictionnalisation	prosodie	positive	S2
+chameaux	I	moquerie	fictionnalisation	prosodie	positive	S2
+tu	I	moquerie	fictionnalisation	voix souriante/prosodie	positive	S4
+vas	I	moquerie	fictionnalisation	voix souriante/prosodie	positive	S2
+avec	I	moquerie	fictionnalisation	voix souriante/prosodie	positive	S2
+ton	I	moquerie	fictionnalisation	voix souriante/prosodie	positive	S2
+père	I	moquerie	fictionnalisation	voix souriante/prosodie	positive	S2
+euh	I	moquerie	fictionnalisation	voix souriante/prosodie	positive	S2
+il	I	moquerie	fictionnalisation	voix souriante/prosodie	positive	S2
+repart	I	moquerie	fictionnalisation	voix souriante/prosodie	positive	S2
+avec	I	moquerie	fictionnalisation	voix souriante/prosodie	positive	S2
+mille	I	moquerie	fictionnalisation	voix souriante/prosodie	positive	S2
+chameaux	I	moquerie	fictionnalisation	voix souriante/prosodie	positive	S2
+à	I	moquerie	fictionnalisation	voix souriante/prosodie	positive	S4
+hein						S4
+ils	I	moquerie	fictionnalisation	rire/prosodie	positive	S4
+rentrent	I	moquerie	fictionnalisation	rire/prosodie	positive	S4
+les	I	moquerie	fictionnalisation	rire/prosodie	positive	S4
+mille	I	moquerie	fictionnalisation	rire/prosodie	positive	S4
+chameaux	I	moquerie	fictionnalisation	rire/prosodie	positive	S4
+dans	I	moquerie	fictionnalisation	rire/prosodie	positive	S4
+ton	I	moquerie	fictionnalisation	rire/prosodie	positive	S4
+jardin	I	moquerie	fictionnalisation	rire/prosodie	positive	S4
+non						S4
+quarantaine	I	moquerie	fictionnalisation/jouer le jeu	prosodie	positive	S2
+pas	I	moquerie	fictionnalisation/jouer le jeu	prosodie	positive	S2
+plus	I	moquerie	fictionnalisation/jouer le jeu	prosodie	positive	S2
+ah						S2
+ouais						S2
+ouais						S4
+c'est						S4
+clair						S4
+chameau						S0
+c'est						S0
+une						S0
+ouais						S0
+dro-						S0
+dro-						S0
+deux						S0
+chameau						S0
+dromadaire						S0
+droma-						S0
+non						S0
+je						S0
+sais						S0
+pas						S0
+dro-						S0
+ouais						S0
+deux						S0
+ouais						S0
+ouais						S0
+peut-être						S0
+ouais						S0
+zéro						S0
+ouais						S0
+ouais						S0
+ouais						S0
+forcément						S0
+oh						S0
+remarque						S0
+c'est						S0
+pas						S0
+la						S0
+bosse						S0
+qui						S0
+tient						S0
+le						S0
+plus						S0
+de						S0
+de						S0
+place						S0
+et						S0
+euh						S0
+bon						S0
+ben						S0
+je						S0
+crois						S0
+que						S0
+euh						S0
+au						S0
+niveau						S0
+non						S0
+mais						S0
+au						S0
+niveau						S0
+de						S0
+ben						S0
+de						S0
+la						S0
+blague						S0
+je						S0
+pense						S0
+qu'il						S0
+faudrait						S0
+je						S0
+pourrais						X
+je						X
+pense	A	moquerie	trope communicationnel	prosodie	positive	X
+qu'il	A	moquerie	trope communicationnel	prosodie	positive	X
+faudrait	A	moquerie	trope communicationnel	prosodie	positive	X
+lui	A	moquerie	trope communicationnel	prosodie	positive	X
+lui	A	moquerie	trope communicationnel	prosodie	positive	X
+faire	A	moquerie	trope communicationnel	prosodie	positive	X
+une	A	moquerie	trope communicationnel	prosodie	positive	X
+petite	A	moquerie	trope communicationnel	prosodie	positive	X
+euh	A	moquerie	trope communicationnel	prosodie	positive	X
+une	A	moquerie	trope communicationnel	prosodie	positive	X
+petite	A	moquerie	trope communicationnel	prosodie	positive	X
+remarque	A	moquerie	trope communicationnel	prosodie	positive	S0
+sur	A	moquerie	trope communicationnel	prosodie	positive	S0
+sa	A	moquerie	trope communicationnel	prosodie	positive	S0
+vanne	A	moquerie	trope communicationnel	prosodie	positive	S0
+pourrie	A	moquerie	trope communicationnel	prosodie	positive	S0
+quoi	A	moquerie	trope communicationnel	prosodie	positive	S0
+hein	A	moquerie	trope communicationnel	prosodie	positive	S0
+q-						S1
+qui	A	moquerie	fictionnalisation/trope communicationnel	prosodie	positive	S1
+est	A	moquerie	fictionnalisation/trope communicationnel	prosodie	positive	S1
+vraiment	A	moquerie	fictionnalisation/trope communicationnel	prosodie	positive	S1
+pas	A	moquerie	fictionnalisation/trope communicationnel	prosodie	positive	S0
+à	A	moquerie	fictionnalisation/trope communicationnel	prosodie	positive	S0
+la	A	moquerie	fictionnalisation/trope communicationnel	prosodie	positive	S0
+hauteur	A	moquerie	fictionnalisation/trope communicationnel	prosodie	positive	S0
+de	A	moquerie	fictionnalisation/trope communicationnel	prosodie	positive	S0
+du	A	moquerie	fictionnalisation/trope communicationnel	prosodie	positive	S0
+de	A	moquerie	fictionnalisation/trope communicationnel	prosodie	positive	S0
+de	A	moquerie	fictionnalisation/trope communicationnel	prosodie	positive	S0
+d	A	moquerie	fictionnalisation/trope communicationnel	prosodie	positive	S0
+une	A	moquerie	fictionnalisation/trope communicationnel	prosodie	positive	S0
+licence	A	moquerie	fictionnalisation/trope communicationnel	prosodie	positive	S0
+quoi	A	moquerie	fictionnalisation/trope communicationnel	prosodie	positive	S0
+tu	A	moquerie	fictionnalisation/trope communicationnel	prosodie	positive	S0
+vois	A	moquerie	fictionnalisation/trope communicationnel	prosodie	positive	S1
+euh	A	moquerie	fictionnalisation/trope communicationnel	prosodie	positive	S1
+franchement	A	moquerie	fictionnalisation/trope communicationnel	prosodie	positive	S1
+quoi	A	moquerie	fictionnalisation/trope communicationnel	prosodie	positive	S1
+avec	A	moquerie	évaluation négative	prosodie	positive	S1
+tous	A	moquerie	évaluation négative	prosodie	positive	S1
+les	A	moquerie	évaluation négative	prosodie	positive	S1
+études	A	moquerie	évaluation négative	prosodie	positive	S1
+qu'on	A	moquerie	évaluation négative	prosodie	positive	S1
+a	A	moquerie	évaluation négative	prosodie	positive	S1
+fait	A	moquerie	évaluation négative	prosodie	positive	S1
+se	A	moquerie	évaluation négative	prosodie	positive	S0
+taper	A	moquerie	évaluation négative	prosodie	positive	S0
+une	A	moquerie	évaluation négative	prosodie	positive	S0
+vanne	A	moquerie	évaluation négative	prosodie	positive	S0
+pareille	A	moquerie	évaluation négative	prosodie	positive	S0
+franchement	A	moquerie	évaluation négative	prosodie	positive	S0
+c'est	A	moquerie	évaluation négative	prosodie	positive	S0
+c'est	A	moquerie	évaluation négative	prosodie	positive	S0
+vraiment	A	moquerie	évaluation négative	prosodie	positive	S0
+nul	A	moquerie	évaluation négative	prosodie	positive	S0
+quoi	A	moquerie	évaluation négative	prosodie	positive	S0
+hein	A	moquerie	évaluation négative	prosodie	positive	S0
+ouais						S0
+voilà						S0
+ou						S0
+un						S0
+qué-						S0
+quelque						S0
+chose	A	moquerie	jouer le jeu/trope communicationnel	prosodie	positive	S0
+de	A	moquerie	jouer le jeu/trope communicationnel	prosodie	positive	S0
+plus	A	moquerie	jouer le jeu/trope communicationnel	prosodie	positive	S0
+humoristique	A	moquerie	jouer le jeu/trope communicationnel	prosodie	positive	S0
+tu	A	moquerie	jouer le jeu/trope communicationnel	prosodie	positive	S0
+vois	A	moquerie	jouer le jeu/trope communicationnel	prosodie	positive	S0
+euh	A	moquerie	jouer le jeu/trope communicationnel	prosodie	positive	S0
+remarque	L/A	moquerie/autodérision	trope communicationnel/référence partagée	prosodie	positive	S0
+l	L/A	moquerie/autodérision	trope communicationnel/référence partagée	prosodie	positive	S0
+humour	L/A	moquerie/autodérision	trope communicationnel/référence partagée	prosodie	positive	S0
+n'est	L/A	moquerie/autodérision	trope communicationnel/référence partagée	prosodie	positive	S0
+pas	L/A	moquerie/autodérision	trope communicationnel/référence partagée	prosodie	positive	S0
+donné	L/A	moquerie/autodérision	trope communicationnel/référence partagée	prosodie	positive	S0
+à	L/A	moquerie/autodérision	trope communicationnel/référence partagée	prosodie	positive	S0
+tout	L/A	moquerie/autodérision	trope communicationnel/référence partagée	prosodie	positive	S0
+le	L/A	moquerie/autodérision	trope communicationnel/référence partagée	prosodie	positive	S0
+monde	L/A	moquerie/autodérision	trope communicationnel/référence partagée	prosodie	positive	S0
+oh	L/A	moquerie/autodérision	trope communicationnel/référence partagée	prosodie	positive	S0
+putain	L/A	moquerie/autodérision	trope communicationnel/référence partagée	prosodie	positive	X
+je	L/A	moquerie/autodérision	trope communicationnel/référence partagée	prosodie	positive	X
+vais	L/A	moquerie/autodérision	trope communicationnel/référence partagée	prosodie	positive	X
+m'en	L/A	moquerie/autodérision	trope communicationnel/référence partagée	prosodie	positive	X
+prendre	L/A	moquerie/autodérision	trope communicationnel/référence partagée	prosodie	positive	X
+plein	L/A	moquerie/autodérision	trope communicationnel/référence partagée	prosodie	positive	X
+la	L/A	moquerie/autodérision	trope communicationnel/référence partagée	prosodie	positive	X
+gueule	L/A	moquerie/autodérision	trope communicationnel/référence partagée	prosodie	positive	X
+hein	L/A	moquerie/autodérision	trope communicationnel/référence partagée	prosodie	positive	X
+là	L	autodérision	fictionnalisation/jouer le jeu/référence partagée/trope communicationnel	prosodie	positive	S4
+je	L	autodérision	fictionnalisation/jouer le jeu/référence partagée/trope communicationnel	prosodie	positive	S4
+pense	L	autodérision	fictionnalisation/jouer le jeu/référence partagée/trope communicationnel	prosodie	positive	S4
+que	L	autodérision	fictionnalisation/jouer le jeu/référence partagée/trope communicationnel	prosodie	positive	S4
+c'est	L	autodérision	fictionnalisation/jouer le jeu/référence partagée/trope communicationnel	prosodie	positive	S2
+pas	L	autodérision	fictionnalisation/jouer le jeu/référence partagée/trope communicationnel	prosodie	positive	S2
+un	L	autodérision	fictionnalisation/jouer le jeu/référence partagée/trope communicationnel	prosodie	positive	S2
+douze	L	autodérision	fictionnalisation/jouer le jeu/référence partagée/trope communicationnel	prosodie	positive	S2
+que	L	autodérision	fictionnalisation/jouer le jeu/référence partagée/trope communicationnel	prosodie	positive	S2
+je	L	autodérision	fictionnalisation/jouer le jeu/référence partagée/trope communicationnel	prosodie	positive	S2
+vais	L	autodérision	fictionnalisation/jouer le jeu/référence partagée/trope communicationnel	prosodie	positive	S2
+prendre	L	autodérision	fictionnalisation/jouer le jeu/référence partagée/trope communicationnel	prosodie	positive	S2
+hein	L	autodérision	fictionnalisation/jouer le jeu/référence partagée/trope communicationnel	prosodie	positive	S3
+c'est	L	autodérision	fictionnalisation/jouer le jeu/référence partagée/trope communicationnel	prosodie	positive	S3
+un	L	autodérision	fictionnalisation/jouer le jeu/référence partagée/trope communicationnel	prosodie	positive	S3
+trois	L	autodérision	fictionnalisation/jouer le jeu/référence partagée/trope communicationnel	prosodie	positive	S3
+et	L	autodérision	fictionnalisation/jouer le jeu/référence partagée/trope communicationnel	prosodie	positive	S3
+demi	L	autodérision	fictionnalisation/jouer le jeu/référence partagée/trope communicationnel	prosodie	positive	S3
+quoi	L	autodérision	fictionnalisation/jouer le jeu/référence partagée/trope communicationnel	prosodie	positive	S3
+tu	L	autodérision	fictionnalisation/jouer le jeu/référence partagée/trope communicationnel	prosodie	positive	S3
+vois	L	autodérision	fictionnalisation/jouer le jeu/référence partagée/trope communicationnel	prosodie	positive	S3
+c'est-à-dire	L	autodérision	trope communicationnel	voix souriante/prosodie	positive	S0
+que	L	autodérision	trope communicationnel	voix souriante/prosodie	positive	S0
+pendant	L	autodérision	trope communicationnel	voix souriante/prosodie	positive	S0
+pendant	L	autodérision	trope communicationnel	voix souriante/prosodie	positive	S0
+trois	L	autodérision	trope communicationnel	voix souriante/prosodie	positive	S0
+mois	L	autodérision	trope communicationnel	voix souriante/prosodie	positive	S0
+tu	L	autodérision	trope communicationnel	voix souriante/prosodie	positive	S0
+vois	L	autodérision	trope communicationnel	voix souriante/prosodie	positive	S0
+j'ai	L	autodérision	trope communicationnel	voix souriante/prosodie	positive	S0
+usé	L	autodérision	trope communicationnel	voix souriante/prosodie	positive	S0
+euh	L	autodérision	trope communicationnel	voix souriante/prosodie	positive	S0
+de	L	autodérision	trope communicationnel	voix souriante/prosodie	positive	S0
+j'ai	L	autodérision	trope communicationnel	voix souriante/prosodie	positive	S0
+usé	L	autodérision	trope communicationnel	voix souriante/prosodie	positive	S0
+de	L	autodérision	trope communicationnel	voix souriante/prosodie	positive	S0
+de	L	autodérision	trope communicationnel	voix souriante/prosodie	positive	S0
+toute	L	autodérision	trope communicationnel	voix souriante/prosodie	positive	S0
+ma	L	autodérision	trope communicationnel	voix souriante/prosodie	positive	S0
+force	L	autodérision	trope communicationnel	voix souriante/prosodie	positive	S0
+pour	L	autodérision	trope communicationnel	voix souriante/prosodie	positive	S0
+euh	L	autodérision	trope communicationnel	voix souriante/prosodie	positive	S0
+essayer	L	autodérision	trope communicationnel	voix souriante/prosodie	positive	S0
+d	L	autodérision	trope communicationnel	voix souriante/prosodie	positive	S0
+être	L	autodérision	trope communicationnel	voix souriante/prosodie	positive	S2
+euh	L	autodérision	trope communicationnel	voix souriante/prosodie	positive	S2
+le	L	autodérision	trope communicationnel	voix souriante/prosodie	positive	S2
+d	L	autodérision	trope communicationnel	voix souriante/prosodie	positive	S2
+être	L	autodérision	trope communicationnel	voix souriante/prosodie	positive	S2
+le	L	autodérision	trope communicationnel	voix souriante/prosodie	positive	S2
+plus	L	autodérision	trope communicationnel	voix souriante/prosodie	positive	S2
+agréable	L	autodérision	trope communicationnel	voix souriante/prosodie	positive	S2
+bien	L	autodérision	trope communicationnel	voix souriante/prosodie	positive	S2
+vu	L	autodérision	trope communicationnel	voix souriante/prosodie	positive	S2
+euh	L	autodérision	trope communicationnel	voix souriante/prosodie	positive	S2
+jamais	L	autodérision	trope communicationnel	voix souriante/prosodie	positive	S2
+contredire	L	autodérision	trope communicationnel	voix souriante/prosodie	positive	S2
+personne	L	autodérision	trope communicationnel	voix souriante/prosodie	positive	S2
+euh	L	autodérision	trope communicationnel	voix souriante/prosodie	positive	S2
+ouais	L/A	moquerie	fictionnalisation/jouer le jeu/disocurs rapporté fictif/trope communicationnel	voix souriante/prosodie	positive	X
+voilà	L/A	moquerie	fictionnalisation/jouer le jeu/disocurs rapporté fictif/trope communicationnel	voix souriante/prosodie	positive	X
+elle	L/A	moquerie	fictionnalisation/jouer le jeu/disocurs rapporté fictif/trope communicationnel	voix souriante/prosodie	positive	X
+va	L/A	moquerie	fictionnalisation/jouer le jeu/disocurs rapporté fictif/trope communicationnel	voix souriante/prosodie	positive	X
+se	L/A	moquerie	fictionnalisation/jouer le jeu/disocurs rapporté fictif/trope communicationnel	voix souriante/prosodie	positive	X
+dire	L/A	moquerie	fictionnalisation/jouer le jeu/disocurs rapporté fictif/trope communicationnel	voix souriante/prosodie	positive	X
+ah	L/A	moquerie	fictionnalisation/jouer le jeu/disocurs rapporté fictif/trope communicationnel	voix souriante/prosodie	positive	X
+ça	L/A	moquerie	fictionnalisation/jouer le jeu/disocurs rapporté fictif/trope communicationnel	voix souriante/prosodie	positive	S0
+y	L/A	moquerie	fictionnalisation/jouer le jeu/disocurs rapporté fictif/trope communicationnel	voix souriante/prosodie	positive	S0
+est	L/A	moquerie	fictionnalisation/jouer le jeu/disocurs rapporté fictif/trope communicationnel	voix souriante/prosodie	positive	S0
+le	L/A	moquerie	fictionnalisation/jouer le jeu/disocurs rapporté fictif/trope communicationnel	voix souriante/prosodie	positive	S0
+mec	L/A	moquerie	fictionnalisation/jouer le jeu/disocurs rapporté fictif/trope communicationnel	voix souriante/prosodie	positive	S0
+euh	L/A	moquerie	fictionnalisation/jouer le jeu/disocurs rapporté fictif/trope communicationnel	voix souriante/prosodie	positive	S0
+il	L/A	moquerie	fictionnalisation/jouer le jeu/disocurs rapporté fictif/trope communicationnel	voix souriante/prosodie	positive	S0
+joue	L/A	moquerie	fictionnalisation/jouer le jeu/disocurs rapporté fictif/trope communicationnel	voix souriante/prosodie	positive	S0
+un	L/A	moquerie	fictionnalisation/jouer le jeu/disocurs rapporté fictif/trope communicationnel	voix souriante/prosodie	positive	S0
+rôle	L/A	moquerie	fictionnalisation/jouer le jeu/disocurs rapporté fictif/trope communicationnel	voix souriante/prosodie	positive	S0
+en	L/A	moquerie	fictionnalisation/jouer le jeu/disocurs rapporté fictif/trope communicationnel	voix souriante/prosodie	positive	S0
+fait	L/A	moquerie	fictionnalisation/jouer le jeu/disocurs rapporté fictif/trope communicationnel	voix souriante/prosodie	positive	S0
+tu	L/A	moquerie	fictionnalisation/jouer le jeu/disocurs rapporté fictif/trope communicationnel	voix souriante/prosodie	positive	S0
+vois	L/A	moquerie	fictionnalisation/jouer le jeu/disocurs rapporté fictif/trope communicationnel	voix souriante/prosodie	positive	S0
+mais	L/A	moquerie	fictionnalisation/jouer le jeu/disocurs rapporté fictif/trope communicationnel	voix souriante/prosodie	positive	S2
+attends	L/A	moquerie	fictionnalisation/jouer le jeu/disocurs rapporté fictif/trope communicationnel	voix souriante/prosodie	positive	S2
+lui	L/A	moquerie	fictionnalisation/jouer le jeu/disocurs rapporté fictif/trope communicationnel	voix souriante/prosodie	positive	S2
+euh	L/A	moquerie	fictionnalisation/jouer le jeu/disocurs rapporté fictif/trope communicationnel	voix souriante/prosodie	positive	S2
+en	L/A	moquerie	fictionnalisation/jouer le jeu/disocurs rapporté fictif/trope communicationnel	voix souriante/prosodie	positive	S2
+plus	L/A	moquerie	fictionnalisation/jouer le jeu/disocurs rapporté fictif/trope communicationnel	voix souriante/prosodie	positive	S2
+j'ai	L/A	moquerie	fictionnalisation/jouer le jeu/disocurs rapporté fictif/trope communicationnel	voix souriante/prosodie	positive	S2
+les	L/A	moquerie	fictionnalisation/jouer le jeu/disocurs rapporté fictif/trope communicationnel	voix souriante/prosodie	positive	S2
+preuves	L/A	moquerie	fictionnalisation/jouer le jeu/disocurs rapporté fictif/trope communicationnel	voix souriante/prosodie	positive	S2
+quoi	L/A	moquerie	fictionnalisation/jouer le jeu/disocurs rapporté fictif/trope communicationnel	voix souriante/prosodie	positive	S2
+j'ai	L/A	moquerie	fictionnalisation/jouer le jeu/disocurs rapporté fictif/trope communicationnel	voix souriante/prosodie	positive	S2
+la	L/A	moquerie	fictionnalisation/jouer le jeu/disocurs rapporté fictif/trope communicationnel	voix souriante/prosodie	positive	S2
+j'ai	L/A	moquerie	fictionnalisation/jouer le jeu/disocurs rapporté fictif/trope communicationnel	voix souriante/prosodie	positive	S2
+la	L/A	moquerie	fictionnalisation/jouer le jeu/disocurs rapporté fictif/trope communicationnel	voix souriante/prosodie	positive	S2
+bande	L/A	moquerie	fictionnalisation/jouer le jeu/disocurs rapporté fictif/trope communicationnel	voix souriante/prosodie	positive	S2
+hein	L/A	moquerie	fictionnalisation/jouer le jeu/disocurs rapporté fictif/trope communicationnel	voix souriante/prosodie	positive	S4
+euh	L/A	moquerie	fictionnalisation/jouer le jeu/disocurs rapporté fictif/trope communicationnel	voix souriante/prosodie	positive	S4
+tu	L/A	moquerie	fictionnalisation/jouer le jeu/disocurs rapporté fictif/trope communicationnel	voix souriante/prosodie	positive	S4
+peux	L/A	moquerie	fictionnalisation/jouer le jeu/disocurs rapporté fictif/trope communicationnel	voix souriante/prosodie	positive	S4
+plus	L/A	moquerie	fictionnalisation/jouer le jeu/disocurs rapporté fictif/trope communicationnel	voix souriante/prosodie	positive	S2
+euh	L/A	moquerie	fictionnalisation/jouer le jeu/disocurs rapporté fictif/trope communicationnel	voix souriante/prosodie	positive	S2
+m'échapper	L/A	moquerie	fictionnalisation/jouer le jeu/disocurs rapporté fictif/trope communicationnel	voix souriante/prosodie	positive	S2
+tu	L/A	autodérision/moquerie	fictionnalisation/référence partagée/trope communicationnel/jouer le jeu	prosodie	positive	S2
+peux	L/A	autodérision/moquerie	fictionnalisation/référence partagée/trope communicationnel/jouer le jeu	prosodie	positive	S2
+plus	L/A	autodérision/moquerie	fictionnalisation/référence partagée/trope communicationnel/jouer le jeu	prosodie	positive	S2
+fuir	L/A	autodérision/moquerie	fictionnalisation/référence partagée/trope communicationnel/jouer le jeu	prosodie	positive	S2
+quoi	L/A	autodérision/moquerie	fictionnalisation/référence partagée/trope communicationnel/jouer le jeu	prosodie	positive	X
+à	L/A	autodérision/moquerie	fictionnalisation/référence partagée/trope communicationnel/jouer le jeu	prosodie	positive	X
+savoir	L/A	autodérision/moquerie	fictionnalisation/référence partagée/trope communicationnel/jouer le jeu	prosodie	positive	S4
+du						S0
+coup						S0
+à						S0
+savoir						S0
+personne						S0
+n'a						S0
+compris						S0
+euh						S0
+pourquoi						S0
+on						S0
+dit						S1
+à						S1
+savoir						S1
+ouais						S1
+voilà						S1
+ouais						S1
+ouais						S1
+ouais						S2
+c'est	A	moquerie	référence partagée	absence	positive	S2
+un	A	moquerie	référence partagée	absence	positive	S2
+gimmik	A	moquerie	référence partagée	absence	positive	S2
+en	A	moquerie	référence partagée	absence	positive	S2
+fait	A	moquerie	référence partagée	absence	positive	S2
+hein	A	moquerie	référence partagée	absence	positive	S2
+c'est	A	moquerie	référence partagée	absence	positive	S2
+c'est	A	moquerie	référence partagée/trope communicationnel	prosodie	positive	S2
+un	A	moquerie	référence partagée/trope communicationnel	prosodie	positive	S2
+gimmik	A	moquerie	référence partagée/trope communicationnel	prosodie	positive	S2
+euh	A	moquerie	référence partagée/trope communicationnel	prosodie	positive	S2
+un	A	moquerie	référence partagée/trope communicationnel	prosodie	positive	S2
+prof	A	moquerie	référence partagée/trope communicationnel	prosodie	positive	S2
+euh	A	moquerie	référence partagée/trope communicationnel	prosodie	positive	S2
+un	A	moquerie	référence partagée/trope communicationnel	prosodie	positive	S2
+prof	A	moquerie	référence partagée/trope communicationnel	prosodie	positive	S2
+qu'on	A	moquerie	référence partagée/trope communicationnel	prosodie	positive	S2
+aime	A	moquerie	référence partagée/trope communicationnel	prosodie	positive	S2
+beaucoup	A	moquerie	référence partagée/trope communicationnel	prosodie	positive	S2
+euh	A	moquerie	référence partagée/trope communicationnel	prosodie	positive	S2
+utilise	A	moquerie	référence partagée/trope communicationnel	prosodie	positive	S2
+euh	A	moquerie	référence partagée/trope communicationnel	prosodie	positive	S2
+constamment	A	moquerie	référence partagée/trope communicationnel	prosodie	positive	S2
+quoi	A	moquerie	référence partagée/trope communicationnel	prosodie	positive	S2
+à	A	moquerie	référence partagée/trope communicationnel	prosodie	positive	S2
+savoir	A	moquerie	référence partagée/trope communicationnel	prosodie	positive	S2
+enfin						S4
+ouais						S1
+ouais						S0
+ça	A	moquerie	évaluation négative	prosodie	positive	S0
+fait	A	moquerie	évaluation négative	prosodie	positive	S0
+un	A	moquerie	évaluation négative	prosodie	positive	S0
+peu	A	moquerie	évaluation négative	prosodie	positive	S0
+flipper	A	moquerie	évaluation négative	prosodie	positive	S0
+quand	A	moquerie	évaluation négative	prosodie	positive	S0
+mê-						S0
+remarque						S0
+euh						S0
+ça						S0
+ça						S0
+te						S0
+met						S0
+moins						S0
+moins						S0
+moins						S0
+mal						S0
+à						S0
+l						S0
+aise						S0
+que						S0
+zéro						S0
+euh	A	moquerie	discours rapporté fictif/référence partagée	rire/prosodie	positive	S0
+est-ce	A	moquerie	discours rapporté fictif/référence partagée	rire/prosodie	positive	S0
+que	A	moquerie	discours rapporté fictif/référence partagée	rire/prosodie	positive	S0
+vous	A	moquerie	discours rapporté fictif/référence partagée	rire/prosodie	positive	S0
+comprenez	A	moquerie	discours rapporté fictif/référence partagée	rire/prosodie	positive	S0
+euh	A	moquerie	discours rapporté fictif/référence partagée	rire/prosodie	positive	S0
+est-ce	A	moquerie	discours rapporté fictif/référence partagée	rire/prosodie	positive	S0
+que	A	moquerie	discours rapporté fictif/référence partagée	rire/prosodie	positive	S0
+vous	A	moquerie	discours rapporté fictif/référence partagée	rire/prosodie	positive	S0
+comprenez	A	moquerie	discours rapporté fictif/référence partagée	rire/prosodie	positive	S0
+ce	A	moquerie	discours rapporté fictif/référence partagée	rire/prosodie	positive	S0
+que	A	moquerie	discours rapporté fictif/référence partagée	rire/prosodie	positive	S0
+vous	A	moquerie	discours rapporté fictif/référence partagée	rire/prosodie	positive	S0
+venez	A	moquerie	discours rapporté fictif/référence partagée	rire/prosodie	positive	S0
+de	A	moquerie	discours rapporté fictif/référence partagée	rire/prosodie	positive	S4
+de	A	moquerie	discours rapporté fictif/référence partagée	rire/prosodie	positive	S4
+d	A	moquerie	discours rapporté fictif/référence partagée	rire/prosodie	positive	S4
+ex-	A	moquerie	discours rapporté fictif/référence partagée	rire/prosodie	positive	S4
+d	A	moquerie	discours rapporté fictif/référence partagée	rire/prosodie	positive	S4
+exposer	A	moquerie	discours rapporté fictif/référence partagée	rire/prosodie	positive	S4
+euh	A	moquerie	discours rapporté fictif/référence partagée	rire/prosodie	positive	S4
+comme	A	moquerie	discours rapporté fictif/référence partagée	rire/prosodie	positive	S4
+fait	A	moquerie	discours rapporté fictif/référence partagée	rire/prosodie	positive	S4
+souvent	A	moquerie	discours rapporté fictif/référence partagée	rire/prosodie	positive	S4
+euh	A	moquerie	discours rapporté fictif/référence partagée	rire/prosodie	positive	S4
+un	A	moquerie	discours rapporté fictif/référence partagée	rire/prosodie	positive	X
+prof	A	moquerie	discours rapporté fictif/référence partagée	rire/prosodie	positive	X
+ouais	A	moquerie	discours rapporté fictif/référence partagée	rire/prosodie	positive	X
+ouais						X
+euh	A	moquerie	fictionnalisation/discours rapporté fictif	prosodie	positive	X
+non	A	moquerie	fictionnalisation/discours rapporté fictif	prosodie	positive	X
+à	A	moquerie	fictionnalisation/discours rapporté fictif	prosodie	positive	X
+vrai	A	moquerie	fictionnalisation/discours rapporté fictif	prosodie	positive	X
+dire	A	moquerie	fictionnalisation/discours rapporté fictif	prosodie	positive	X
+non	A	moquerie	fictionnalisation/discours rapporté fictif	prosodie	positive	S2
+euh	A	moquerie	fictionnalisation/discours rapporté fictif	prosodie	positive	S2
+à	A	moquerie	fictionnalisation/discours rapporté fictif	prosodie	positive	S2
+vrai	A	moquerie	fictionnalisation/discours rapporté fictif	prosodie	positive	S2
+dire	A	moquerie	fictionnalisation/discours rapporté fictif	prosodie	positive	S2
+non	A	moquerie	fictionnalisation/discours rapporté fictif	prosodie	positive	S2
+je	A	moquerie	fictionnalisation/discours rapporté fictif	prosodie	positive	S2
+parle	A	moquerie	fictionnalisation/discours rapporté fictif	prosodie	positive	S2
+sans	A	moquerie	fictionnalisation/discours rapporté fictif	prosodie	positive	S2
+réfléchir	A	moquerie	fictionnalisation/discours rapporté fictif	prosodie	positive	S1
+mh						S0
+mh						S0
+ah						S0
+ouais						S0
+ah						S0
+ouais						S0
+exact						S0
+par						S0
+con-						S0
+par						S0
+contre						S0
+qu-						S0
+je						S0
+tiens						S0
+quand						S0
+même						S0
+à						S0
+pf						S0
+à						S0
+préciser						S0
+que						S0
+il						S0
+fait						S0
+il						S0
+fait						S0
+il						S0
+fait						S0
+il						S0
+fait						S0
+quand						S0
+même						S0
+un						S0
+peu						S0
+chaud						S0
+hein						S0
+mh						S0
+ouais						S0
+c'est						S0
+agréable						S0
+je	S	situation	fictionnalisation	prosodie	positive	S0
+vais	S	situation	fictionnalisation	prosodie	positive	S0
+leur	S	situation	fictionnalisation	prosodie	positive	S0
+demander	S	situation	fictionnalisation	prosodie	positive	S0
+si	S	situation	fictionnalisation	prosodie	positive	S0
+on	S	situation	fictionnalisation	prosodie	positive	S0
+peut	S	situation	fictionnalisation	prosodie	positive	S0
+venir	S	situation	fictionnalisation	prosodie	positive	S0
+passer	S	situation	fictionnalisation	prosodie	positive	S0
+un	S	situation	fictionnalisation	prosodie	positive	S0
+week-end	S	situation	fictionnalisation	prosodie	positive	S0
+ici	S	situation	fictionnalisation	prosodie	positive	S0
+ouais						S0
+ben						S4
+pourquoi	I	moquerie	jouer le jeu/fictionnalisation	absence	positive	S1
+pas	I	moquerie	jouer le jeu/fictionnalisation	absence	positive	S1
+avec						S1
+toi						S1
+ben						S1
+oui						S4
+non						S4
+ouais						S1
+voilà						S1
+ben						S1
+ouais						S1
+Antony						S0
+Kevin						S0
+pareil						S0
+Kevin	A	moquerie	répétition	rire	positive	S4
+mh						S0
+excusez-moi						S0
+pour						S0
+les						S0
+gros						S0
+mots						S0
+ouais						S0
+j'ai						S0
+pas						S0
+fait						S0
+attention						S0
+hein						X
+oui						X
+m-						X
